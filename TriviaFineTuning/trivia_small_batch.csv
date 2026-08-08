@@ -1,0 +1,1089 @@
+,question,answer_aliases,answers,answers_norm,aliases_norm
+0,Which American-born Sinclair won the Nobel Prize for Literature in 1930?,"['(Harry) Sinclair Lewis' 'Harry Sinclair Lewis' 'Lewis, (Harry) Sinclair'
+ 'Grace Hegger' 'Sinclair Lewis']",Sinclair Lewis,sinclair lewis,"['harry sinclair lewis', 'harry sinclair lewis', 'lewis harry sinclair', 'grace hegger', 'sinclair lewis']"
+1,Where in England was Dame Judi Dench born?,"['Park Grove (1895)' 'York UA' 'Yorkish' 'UN/LOCODE:GBYRK' 'York, UK'
+ 'Eoforwic' 'Park Grove School' 'York Ham' 'The weather in York'
+ 'City of York' 'York, England' 'York, Yorkshire' 'York ham'
+ 'County Borough of York' 'YORK' 'Eoferwic' 'Park Grove Primary School'
+ 'York, North Yorkshire' 'Yoisk' 'York' 'York (England)']",York,york,"['park grove 1895', 'york ua', 'yorkish', 'unlocodegbyrk', 'york uk', 'eoforwic', 'park grove school', 'york ham', 'the weather in york', 'city of york', 'york england', 'york yorkshire', 'york ham', 'county borough of york', 'york', 'eoferwic', 'park grove primary school', 'york north yorkshire', 'yoisk', 'york', 'york england']"
+2,In which decade did Billboard magazine first publish and American hit chart?,"[""30's"" '30’s' '30s' '30s AD' '30-39']",30s,30s,"['30s', '30s', '30s', '30s ad', '3039']"
+3,From which country did Angola achieve independence in 1975?,"['Portogało' 'Republic of Portugal' 'PORTUGAL' 'Portekiz' 'Portugallu'
+ 'O Papagaio' 'ISO 3166-1:PT' 'Portunga' 'Phu-to-ga' 'Potigal' 'Portûnga'
+ 'Portugul' 'An Phortaingéil' 'Portugāle' 'Portugale' 'Portingale'
+ 'Potiti' 'Portugali' 'Portugall' 'Portekîz' 'Bo Dao Nha'
+ 'Portuguese Republic' 'Portogallo' 'Portugaul' 'Portogalo' 'Portyngal'
+ 'Yn Phortiugal' 'Portugalio' 'Portugál' 'Portugual' 'Portuga' 'Portgual'
+ 'Portugalsko' 'Portugaleje' 'Phû-tô-gâ' 'Portugalujo' 'Portugalija'
+ 'Pertual' 'Pòtigal' 'Portugal' 'Bồ Đào Nha' 'Portugalska'
+ 'República Portuguesa' 'Portiwgal' 'Portugalėjė' 'Portúgal' 'Portegal'
+ 'An Phortaingeil' 'Republica Portuguesa']",Portugal,portugal,"['portogało', 'republic of portugal', 'portugal', 'portekiz', 'portugallu', 'o papagaio', 'iso 31661pt', 'portunga', 'phutoga', 'potigal', 'portûnga', 'portugul', 'an phortaingéil', 'portugāle', 'portugale', 'portingale', 'potiti', 'portugali', 'portugall', 'portekîz', 'bo dao nha', 'portuguese republic', 'portogallo', 'portugaul', 'portogalo', 'portyngal', 'yn phortiugal', 'portugalio', 'portugál', 'portugual', 'portuga', 'portgual', 'portugalsko', 'portugaleje', 'phûtôgâ', 'portugalujo', 'portugalija', 'pertual', 'pòtigal', 'portugal', 'bồ đào nha', 'portugalska', 'república portuguesa', 'portiwgal', 'portugalėjė', 'portúgal', 'portegal', 'an phortaingeil', 'republica portuguesa']"
+4,Which city does David Soul come from?,"['Chi-Beria' 'Sayre language academy' 'Chicago' 'Chicago, Illinois'
+ 'Hog Butcher for the World' 'Land of smelly onions'
+ 'Ariel Community Academy' 'The weather in Chicago'
+ 'Chicago, Illinois, U.S.A.' 'Chicago, Illionis' 'Near North Montessori'
+ 'Religion in Chicago' 'Chicago Finance Committee' 'The Paris of America'
+ 'The city of Chicago' 'City of Chicago'
+ 'List of sister cities of Chicago' 'UN/LOCODE:USCHI'
+ 'Chicago theatre scene' 'Chicago, WI' 'The City of Broad Shoulders'
+ 'City of Broad Shoulders' 'Sister Cities of Chicago' 'Chicago il'
+ 'Chicago, Illinois, USA' 'Performing arts in Chicago'
+ 'Chicago Transportation Committee' 'Chicago, Wisconsin' 'City of chicago'
+ 'Chicago theater scene' 'Chicago, Il' 'Chicago, IL.' 'Chicago, Ill.'
+ 'City of Chicago, Illinois' 'Chi town' 'Chicago, United States'
+ 'Chicago (Ill.)' 'Transport in Chicago'
+ 'Chicago, Illinois, United States' 'Chicago (IL)' 'USCHI' 'Chichago'
+ 'Chcago' 'Chicago, Illinois, U.S.' 'Sister Cities Chicago' 'Chicago, USA'
+ 'Chi City' 'Chicago, IL' 'Chi-Town' 'Chicago theatre' 'Paris of America'
+ 'Chicago, Illinois, US' 'Chicago Illinois'
+ 'The city of Chicago, Illinois' 'Sister cities of Chicago']",Chicago,chicago,"['chiberia', 'sayre language academy', 'chicago', 'chicago illinois', 'hog butcher for the world', 'land of smelly onions', 'ariel community academy', 'the weather in chicago', 'chicago illinois usa', 'chicago illionis', 'near north montessori', 'religion in chicago', 'chicago finance committee', 'the paris of america', 'the city of chicago', 'city of chicago', 'list of sister cities of chicago', 'unlocodeuschi', 'chicago theatre scene', 'chicago wi', 'the city of broad shoulders', 'city of broad shoulders', 'sister cities of chicago', 'chicago il', 'chicago illinois usa', 'performing arts in chicago', 'chicago transportation committee', 'chicago wisconsin', 'city of chicago', 'chicago theater scene', 'chicago il', 'chicago il', 'chicago ill', 'city of chicago illinois', 'chi town', 'chicago united states', 'chicago ill', 'transport in chicago', 'chicago illinois united states', 'chicago il', 'uschi', 'chichago', 'chcago', 'chicago illinois us', 'sister cities chicago', 'chicago usa', 'chi city', 'chicago il', 'chitown', 'chicago theatre', 'paris of america', 'chicago illinois us', 'chicago illinois', 'the city of chicago illinois', 'sister cities of chicago']"
+5,Who won Super Bowl XX?,"['Chicago Bears' 'Chicago Staleys' 'Decatur Staleys'
+ 'Chicago Bears football' 'Chicago bears' 'Save Da Planet'
+ 'Chicago Gators']",Chicago Bears,chicago bears,"['chicago bears', 'chicago staleys', 'decatur staleys', 'chicago bears football', 'chicago bears', 'save da planet', 'chicago gators']"
+6,Which was the first European country to abolish capital punishment?,"['Norvège' 'Mainland Norway' 'Norway' 'Norvege' 'Noregur' 'NORWAY'
+ 'Norwegian state' 'Etymology of Norway' 'Noruega' 'Norwegen'
+ 'ISO 3166-1:NO' 'Noreg' 'Republic of Norway' 'Norwegian kingdom'
+ 'Kongeriket Noreg' 'Name of Norway' 'Kongeriket Norge' 'Noorwegen'
+ 'Kingdom of Norway' 'Sport in Norway' 'Norwegia'
+ 'Royal Kingdom of Norway']",Norway,norway,"['norvège', 'mainland norway', 'norway', 'norvege', 'noregur', 'norway', 'norwegian state', 'etymology of norway', 'noruega', 'norwegen', 'iso 31661no', 'noreg', 'republic of norway', 'norwegian kingdom', 'kongeriket noreg', 'name of norway', 'kongeriket norge', 'noorwegen', 'kingdom of norway', 'sport in norway', 'norwegia', 'royal kingdom of norway']"
+7,In which country did he widespread use of ISDN begin in 1988?,"['日本國' 'State of Japan' 'Ja-pan' 'Nihon' 'Nippon' 'Japang'
+ 'Modern–era Japan' 'Etymology of Japan' 'Japan (country)'
+ 'Republic of Japan' 'Japanese financial sector' 'Nihon-koku'
+ 'ISO 3166-1:JP' '日本' 'Japian' 'Japan' 'JapaN' 'The State of Japan'
+ 'Riben' 'Nippon-koku' 'JPN' 'Jpan' 'Rìběn' '日本国' 'Japao' 'JAPAN' 'Japoa'
+ '🗾']",Japan,japan,"['日本國', 'state of japan', 'japan', 'nihon', 'nippon', 'japang', 'modernera japan', 'etymology of japan', 'japan country', 'republic of japan', 'japanese financial sector', 'nihonkoku', 'iso 31661jp', '日本', 'japian', 'japan', 'japan', 'the state of japan', 'riben', 'nipponkoku', 'jpn', 'jpan', 'rìběn', '日本国', 'japao', 'japan', 'japoa', '']"
+8,What is Bruce Willis' real first name?,"['Walter (TV Series)' 'Walter' 'Walter (disambiguation)'
+ 'Walter (TV series)']",Walter,walter,"['walter tv series', 'walter', 'walter disambiguation', 'walter tv series']"
+9,Which William wrote the novel Lord Of The Flies?,['Golding' 'Golding (surname)' 'Golding (disambiguation)'],Golding,golding,"['golding', 'golding surname', 'golding disambiguation']"
+10,Which innovation for the car was developed by Prince Henry of Prussia in 1911?,"['Rear-window wiper' 'Headlight washer' 'Windshield wiper'
+ 'Windshield wipers' 'Wipers (car)' 'Headlamp wiper' 'Windscreen wipers'
+ 'MAGIC VISION CONTROL' 'Intermittent windshield wiper'
+ 'Windscreen washer' 'Headlight wiper' 'Headlamp washer' 'Wiper blade'
+ 'Windshield washer' 'Windscreen wiper']",Windshield wipers,windshield wipers,"['rearwindow wiper', 'headlight washer', 'windshield wiper', 'windshield wipers', 'wipers car', 'headlamp wiper', 'windscreen wipers', 'magic vision control', 'intermittent windshield wiper', 'windscreen washer', 'headlight wiper', 'headlamp washer', 'wiper blade', 'windshield washer', 'windscreen wiper']"
+11,How is musician William Lee Conley better known?,"['Bill Broonzy' 'Big Bill Broonzey' 'William Lee Conley Broonzy'
+ 'Big Bill Broonzy' 'William Broonzy']",Big Bill Broonzy,big bill broonzy,"['bill broonzy', 'big bill broonzey', 'william lee conley broonzy', 'big bill broonzy', 'william broonzy']"
+12,How is Joan Molinsky better known?,"['Queen of Comedy' 'Heidi Abromowitz' 'Joan Rivers (TV) Show'
+ 'Joan Alexandra Molinsky' 'Diary of a Mad Diva' 'Joan rivers'
+ 'Heidi abromowitz' 'Joan River' 'Joan Rivers Show' 'Joan Rivers']",Joan Rivers,joan rivers,"['queen of comedy', 'heidi abromowitz', 'joan rivers tv show', 'joan alexandra molinsky', 'diary of a mad diva', 'joan rivers', 'heidi abromowitz', 'joan river', 'joan rivers show', 'joan rivers']"
+13,In which branch of the arts is Patricia Neary famous?,"['Ballet' 'Ballet competitions' 'Ballet schools' 'Balet, India' 'Balletti'
+ 'Ballet dancing' '1938 ballet premieres' 'Balletto' 'Balletomane'
+ '2011 ballet premieres' '1940 ballet premieres' 'Balletomanes'
+ '1939 ballet premieres' 'Ballet characters' 'Ballet teachers'
+ 'Ballet dance' 'Classical Dance' 'Ballets' 'Ballet lessons'
+ '1915 ballet premieres' '1914 ballet premieres' 'Classical dance'
+ 'UN/LOCODE:INBLT' '1916 ballet premieres' 'Balet' 'Ballett']",Ballet,ballet,"['ballet', 'ballet competitions', 'ballet schools', 'balet india', 'balletti', 'ballet dancing', '1938 ballet premieres', 'balletto', 'balletomane', '2011 ballet premieres', '1940 ballet premieres', 'balletomanes', '1939 ballet premieres', 'ballet characters', 'ballet teachers', 'ballet dance', 'classical dance', 'ballets', 'ballet lessons', '1915 ballet premieres', '1914 ballet premieres', 'classical dance', 'unlocodeinblt', '1916 ballet premieres', 'balet', 'ballett']"
+14,Which country is Europe's largest silk producer?,"['Environment of Italy' 'Italiën' 'Subdivisions of Italy'
+ 'Republic of Italy' 'ItalY' 'ISO 3166-1:IT' 'Etymology of Italy' 'Itali'
+ 'Pollution in Italy' 'Administrative divisions of Italy'
+ 'Austrian Empire (Italy)' 'Italija' 'Italie' 'Italia' 'Italian Republic'
+ 'Second Italian Republic' 'Italy' 'Italio' 'Repubblica Italiana' 'Itàlia'
+ 'The Italian republic']",Italy,italy,"['environment of italy', 'italiën', 'subdivisions of italy', 'republic of italy', 'italy', 'iso 31661it', 'etymology of italy', 'itali', 'pollution in italy', 'administrative divisions of italy', 'austrian empire italy', 'italija', 'italie', 'italia', 'italian republic', 'second italian republic', 'italy', 'italio', 'repubblica italiana', 'itàlia', 'the italian republic']"
+15,The VS-300 was a type of what?,"['🚁' 'Helicopters' 'Civilian helicopter' 'Pescara (helicopter)'
+ 'Cargo helicopter' 'Copter' 'Helecopter'
+ 'List of deadliest helicopter crashes' 'Helichopper' 'Helocopter'
+ 'Cargo Helicopter' 'Helicopter' 'Helicoptor' 'Anatomy of a helicopter']",Helicopter,helicopter,"['', 'helicopters', 'civilian helicopter', 'pescara helicopter', 'cargo helicopter', 'copter', 'helecopter', 'list of deadliest helicopter crashes', 'helichopper', 'helocopter', 'cargo helicopter', 'helicopter', 'helicoptor', 'anatomy of a helicopter']"
+16,At which university did Joseph Goebbels become a doctor of philosophy?,"['Heidelberg romantics' 'UN/LOCODE:DEHEI' 'Heidelberg, West Germany'
+ 'Wieblingen' 'Heidelberg' 'Heidelberg, Germany']",Heidelberg,heidelberg,"['heidelberg romantics', 'unlocodedehei', 'heidelberg west germany', 'wieblingen', 'heidelberg', 'heidelberg germany']"
+17,Which prince is Queen Elizabeth II's youngest son?,['Eadweard' 'Edward'],Edward,edward,"['eadweard', 'edward']"
+18,When did the founder of Jehovah's Witnesses say the world would end?,"['one thousand, nine hundred and fourteen' '1914']",1914,1914,"['one thousand nine hundred and fourteen', '1914']"
+19,Who found the remains of the Titanic?,"['Bob Ballard' 'Robert Duane Ballard' 'Robert Ballard'
+ 'Robert %22Bob%22 Ballard' 'Robert d. ballard']",Robert Ballard,robert ballard,"['bob ballard', 'robert duane ballard', 'robert ballard', 'robert 22bob22 ballard', 'robert d ballard']"
+20,Who was the only Spice Girl not to have a middle name?,"['My Love Is For Real (Victoria Beckham song' 'Romeo James Beckham'
+ 'Harper Seven Beckham' 'Posh Spice' 'Victoria addams' 'Victoria Beckham'
+ 'Victoria Adams Beckham' 'Harper Beckham' 'Victoria Caroline Beckham'
+ ""I'd Give It All Away"" 'Come Together (Victoria Beckham album)'
+ 'Posh spice' 'The Hustla' 'My Love Is For Real (Victoria Beckham song)'
+ 'Victoria beckham']",Posh Spice,posh spice,"['my love is for real victoria beckham song', 'romeo james beckham', 'harper seven beckham', 'posh spice', 'victoria addams', 'victoria beckham', 'victoria adams beckham', 'harper beckham', 'victoria caroline beckham', 'id give it all away', 'come together victoria beckham album', 'posh spice', 'the hustla', 'my love is for real victoria beckham song', 'victoria beckham']"
+21,What are the international registration letters of a vehicle from Algeria?,['DZ (disambiguation)' 'Dz.' 'DZs' 'Dz' 'D.z.' 'DZ' 'D Z' 'D.Z.'],DZ,dz,"['dz disambiguation', 'dz', 'dzs', 'dz', 'dz', 'dz', 'd z', 'dz']"
+22,How did Jock die in Dallas?,['Helicopter accident'],Helicopter accident,helicopter accident,['helicopter accident']
+23,What star sign is Michael Caine?,['Pisces (disambiguation)' 'Piscean' 'Picese' 'Pisces' 'Piscese' 'Pisese'],Pisces,pisces,"['pisces disambiguation', 'piscean', 'picese', 'pisces', 'piscese', 'pisese']"
+24,Who wrote the novel Evening Class?,['Maeve Binchy'],Maeve Binchy,maeve binchy,['maeve binchy']
+25,Which country does the airline Air Pacific come from?,"['Fiji Islands' 'Pacific/Fiji' 'Fidji' 'Matanitu Ko Viti' 'Fijis'
+ 'Fijian Islands' 'Feejee' 'Ripablik ăph Phījī' 'Cannibal Isles'
+ 'Sovereign Democratic Republic of Fiji' 'ISO 3166-1:FJ' 'Name of Fiji'
+ 'Etymology of Fiji' 'Fiji Islander' 'Holidays in fiji' ""Fiji's""
+ 'Republic of the Fiji Islands' 'Matanitu Tugalala o Viti'
+ 'Fiji Archipelago' 'Fiji Island' 'Fidji Islands' 'Chikoba'
+ 'Holidays in Fiji' 'Tourism in Fiji' 'Fiji' 'Republic of Fiji']",Fiji,fiji,"['fiji islands', 'pacificfiji', 'fidji', 'matanitu ko viti', 'fijis', 'fijian islands', 'feejee', 'ripablik ăph phījī', 'cannibal isles', 'sovereign democratic republic of fiji', 'iso 31661fj', 'name of fiji', 'etymology of fiji', 'fiji islander', 'holidays in fiji', 'fijis', 'republic of the fiji islands', 'matanitu tugalala o viti', 'fiji archipelago', 'fiji island', 'fidji islands', 'chikoba', 'holidays in fiji', 'tourism in fiji', 'fiji', 'republic of fiji']"
+26,In which branch of the arts does Allegra Kent work?,"['Ballet' 'Ballet competitions' 'Ballet schools' 'Balet, India' 'Balletti'
+ 'Ballet dancing' '1938 ballet premieres' 'Balletto' 'Balletomane'
+ '2011 ballet premieres' '1940 ballet premieres' 'Balletomanes'
+ '1939 ballet premieres' 'Ballet characters' 'Ballet teachers'
+ 'Ballet dance' 'Classical Dance' 'Ballets' 'Ballet lessons'
+ '1915 ballet premieres' '1914 ballet premieres' 'Classical dance'
+ 'UN/LOCODE:INBLT' '1916 ballet premieres' 'Balet' 'Ballett']",Ballet,ballet,"['ballet', 'ballet competitions', 'ballet schools', 'balet india', 'balletti', 'ballet dancing', '1938 ballet premieres', 'balletto', 'balletomane', '2011 ballet premieres', '1940 ballet premieres', 'balletomanes', '1939 ballet premieres', 'ballet characters', 'ballet teachers', 'ballet dance', 'classical dance', 'ballets', 'ballet lessons', '1915 ballet premieres', '1914 ballet premieres', 'classical dance', 'unlocodeinblt', '1916 ballet premieres', 'balet', 'ballett']"
+27,"Who had a 70s No 1 hit with Billy, Don't Be A Hero?","['Bo donaldson and the heywoods' 'Bo Donaldson and the Heywoods'
+ 'Bo Donaldson and The Heywoods' 'The Heywoods'
+ 'Bo Donaldson & the Haywoods' 'Bo Donaldson & the Heywoods'
+ 'Bo Donaldson & The Heywoods' 'Bo Donaldson' 'Rick Joswick'
+ 'Bo Donaldson and the Haywoods']",Bo Donaldson & The Heywoods,bo donaldson  the heywoods,"['bo donaldson and the heywoods', 'bo donaldson and the heywoods', 'bo donaldson and the heywoods', 'the heywoods', 'bo donaldson  the haywoods', 'bo donaldson  the heywoods', 'bo donaldson  the heywoods', 'bo donaldson', 'rick joswick', 'bo donaldson and the haywoods']"
+28,Banting and Best pioneered the use of what?,"['Insulin antagonists' 'Human Mixtard'
+ 'Insulin recombinant purified human' 'INS (gene)' 'Insulin Human' 'C65R'
+ 'Insulin recombinant human' 'C257H383N65O77S6' 'Insulin purified pork'
+ 'Actraphane' 'Insulin zinc susp recombinant human' 'Insuline'
+ 'Insulin zinc susp prompt beef' 'Insullin'
+ 'Insulin zinc susp semisynthetic purified human'
+ 'Insulin aspart recombinant' 'B10H' 'Insulin purified beef'
+ 'Insulin gene' 'Insulin zinc susp extended recombinant human' 'Aktrapid'
+ 'Oral insulin' 'Insulin zinc susp purified pork' 'Human mixtard'
+ 'Insulin zinc susp extended beef'
+ 'Insulin zinc susp extended purified beef' 'Insulin release'
+ 'Insulin zinc susp purified beef' 'Actrapid'
+ 'Insulin glargine recombinant' 'Insulin zinc susp prompt purified pork'
+ 'Insulin pork' 'Iletin i (beef-pork)' 'Iletin II'
+ 'Insulin zinc susp beef' 'Mixtard' 'Insulin, porcine' 'Insulin']",Insulin,insulin,"['insulin antagonists', 'human mixtard', 'insulin recombinant purified human', 'ins gene', 'insulin human', 'c65r', 'insulin recombinant human', 'c257h383n65o77s6', 'insulin purified pork', 'actraphane', 'insulin zinc susp recombinant human', 'insuline', 'insulin zinc susp prompt beef', 'insullin', 'insulin zinc susp semisynthetic purified human', 'insulin aspart recombinant', 'b10h', 'insulin purified beef', 'insulin gene', 'insulin zinc susp extended recombinant human', 'aktrapid', 'oral insulin', 'insulin zinc susp purified pork', 'human mixtard', 'insulin zinc susp extended beef', 'insulin zinc susp extended purified beef', 'insulin release', 'insulin zinc susp purified beef', 'actrapid', 'insulin glargine recombinant', 'insulin zinc susp prompt purified pork', 'insulin pork', 'iletin i beefpork', 'iletin ii', 'insulin zinc susp beef', 'mixtard', 'insulin porcine', 'insulin']"
+29,Who directed the movie La Dolce Vita?,"['Federico Fellini, Cavaliere di Gran Croce OMRI' 'Felini' 'Felliniesque'
+ 'Fellini' 'Frederico Fellini' 'Federico Fellini']",Federico Fellini,federico fellini,"['federico fellini cavaliere di gran croce omri', 'felini', 'felliniesque', 'fellini', 'frederico fellini', 'federico fellini']"
+30,Which country does the airline LACSA come from?,"['Countries: Costa Rica' 'Costarrica' 'Republic of Costa Rica'
+ 'Sport in Costa Rica' 'Costarica' 'The Republic of Costa Rica'
+ 'Costa rica' 'Rich Coast' 'Costa-Rica' 'Climate of Costa Rica'
+ 'Costa Rica' 'Costa Rican' 'República de Costa Rica'
+ 'Climate of costa rica' 'Cosat Rica' 'Tiquicia' 'Coasta rica'
+ 'List of Costa Ricans' 'ISO 3166-1:CR' 'America/Costa Rica' 'Coast Rice']",Costa Rica,costa rica,"['countries costa rica', 'costarrica', 'republic of costa rica', 'sport in costa rica', 'costarica', 'the republic of costa rica', 'costa rica', 'rich coast', 'costarica', 'climate of costa rica', 'costa rica', 'costa rican', 'república de costa rica', 'climate of costa rica', 'cosat rica', 'tiquicia', 'coasta rica', 'list of costa ricans', 'iso 31661cr', 'americacosta rica', 'coast rice']"
+31,Who directed 2001: A Space Odyssey?,"['Stanley Q-Brick' 'Stanley kubrick' 'Stan Kubrick' 'Stanley Kubrik'
+ 'Kubricks' 'List of Stanley Kubrick films' 'Stanley Kubrick'
+ 'Uncompleted Kubrick films' 'Toba metz' 'Stanley kubrik' 'Kubrick'
+ 'Kubrik' 'Kubrickian']",Stanley Kubrick,stanley kubrick,"['stanley qbrick', 'stanley kubrick', 'stan kubrick', 'stanley kubrik', 'kubricks', 'list of stanley kubrick films', 'stanley kubrick', 'uncompleted kubrick films', 'toba metz', 'stanley kubrik', 'kubrick', 'kubrik', 'kubrickian']"
+32,Which is the largest of the Japanese Volcano Islands?,"['Mount Surabachi' 'Iō-tō' 'Iwō Tō' 'Iwo-Jima' 'Io-jima' 'Ivo jima'
+ 'Io To' 'Iōtō' 'Iwo To' 'Iwo Jima Island' 'Iwo Jima' 'Ioto' 'Iwoto'
+ 'Iwo jima' 'Iwojima' 'Io Jima' 'Iō Tō' 'Iwōtō']",Iwo Jima,iwo jima,"['mount surabachi', 'iōtō', 'iwō tō', 'iwojima', 'iojima', 'ivo jima', 'io to', 'iōtō', 'iwo to', 'iwo jima island', 'iwo jima', 'ioto', 'iwoto', 'iwo jima', 'iwojima', 'io jima', 'iō tō', 'iwōtō']"
+33,Ezzard Charles was a world champion in which sport?,"['Prize fight' 'Prize fighting' 'Fistfighting' 'Corner men'
+ 'Corner persons' 'Prize-fighter' 'Noble art' 'Boxing' 'Sports boxing'
+ 'Western boxing' 'English boxing' 'Boxing match' 'Fistfight' 'Cornermen'
+ 'Prizefighter' 'Low guard' 'Boxing (sport)' 'Boxing moves' 'Corner-man'
+ 'Cornerpersons' 'Pugilism' 'Corner-person' 'Fist fight' 'Boxing punches'
+ 'Round (boxing)' 'Pugilist' 'Boxer' 'Fist-fighting' ""Gentleman's sport""
+ 'Fist-fight' '拳闘' 'Cornerperson' 'Prizefights'
+ 'History of professional boxing' 'Corner-persons' 'Fist fighting'
+ 'Prize fighter' 'Boxers' 'Parrying (boxing)' 'History of boxing'
+ 'Fist Fighting' 'Prize Fighter' 'Pugilistic' 'Corner-men' 'Corner person'
+ 'Ring second' 'Hit and Away' 'Boxing Styles and Techniques']",Boxing,boxing,"['prize fight', 'prize fighting', 'fistfighting', 'corner men', 'corner persons', 'prizefighter', 'noble art', 'boxing', 'sports boxing', 'western boxing', 'english boxing', 'boxing match', 'fistfight', 'cornermen', 'prizefighter', 'low guard', 'boxing sport', 'boxing moves', 'cornerman', 'cornerpersons', 'pugilism', 'cornerperson', 'fist fight', 'boxing punches', 'round boxing', 'pugilist', 'boxer', 'fistfighting', 'gentlemans sport', 'fistfight', '拳闘', 'cornerperson', 'prizefights', 'history of professional boxing', 'cornerpersons', 'fist fighting', 'prize fighter', 'boxers', 'parrying boxing', 'history of boxing', 'fist fighting', 'prize fighter', 'pugilistic', 'cornermen', 'corner person', 'ring second', 'hit and away', 'boxing styles and techniques']"
+34,Who was the first woman to make a solo flight across the Atlantic?,"['Amelia airheart' 'Amelia Airhardt' 'Disappearance of Amelia Earhart'
+ 'Amelia Airhart' 'Amelia Erhart' 'Emelia Earhart' 'Amelia Mary Earhart'
+ 'Amelia Aerhart' 'Amelia Erhardt' 'Amelia Earheart' 'Amelia Earnhart'
+ 'Amelia Earhart Putnam' 'Emelia Airheart' 'Amelia earhart'
+ 'Amielia Earhart' 'Amelia airhart' 'Amelia Earhardt'
+ 'Amelia Earhart Life Summary' 'Amelia Earhart' 'Amelia Airheart']",Amelia Earhart,amelia earhart,"['amelia airheart', 'amelia airhardt', 'disappearance of amelia earhart', 'amelia airhart', 'amelia erhart', 'emelia earhart', 'amelia mary earhart', 'amelia aerhart', 'amelia erhardt', 'amelia earheart', 'amelia earnhart', 'amelia earhart putnam', 'emelia airheart', 'amelia earhart', 'amielia earhart', 'amelia airhart', 'amelia earhardt', 'amelia earhart life summary', 'amelia earhart', 'amelia airheart']"
+35,Which port lies between Puget Sound and Lake Washington?,"['Seattle, Washington.' 'Seattle Weekly news' 'Jet City'
+ 'Seattle, Washington, USA' 'Seattle WA'
+ 'Seattle, United States of America' '舍路' 'City of Seattle'
+ 'Seattle Washington' 'Seattle, US-WA' 'Seattle (WA)' 'Seattle, Wa'
+ 'Seattle, WA' 'Seattle, Washington' 'St. Anne Seattle' 'Seattle (Wash.)'
+ 'The weather in Seattle' 'Seattle, Washington (State)'
+ 'Emerald City, Washington' 'Seattleans' ""Seattle's"" 'Seattle, Wash.'
+ 'Duwamps' 'St. Anne School, Seattle, Washington' 'Seattle, wa'
+ 'Seattleites' 'Seattle, Washington Territory' 'Seattle, United States'
+ 'Seatle' 'Seattle, USA' 'UN/LOCODE:USSEA'
+ 'St. Anne School (Seattle, Washington)' 'Seattle' 'Seattle, WA, USA']",Seattle,seattle,"['seattle washington', 'seattle weekly news', 'jet city', 'seattle washington usa', 'seattle wa', 'seattle united states of america', '舍路', 'city of seattle', 'seattle washington', 'seattle uswa', 'seattle wa', 'seattle wa', 'seattle wa', 'seattle washington', 'st anne seattle', 'seattle wash', 'the weather in seattle', 'seattle washington state', 'emerald city washington', 'seattleans', 'seattles', 'seattle wash', 'duwamps', 'st anne school seattle washington', 'seattle wa', 'seattleites', 'seattle washington territory', 'seattle united states', 'seatle', 'seattle usa', 'unlocodeussea', 'st anne school seattle washington', 'seattle', 'seattle wa usa']"
+36,In which city were Rotary Clubs set up in 1905?,"['Chi-Beria' 'Sayre language academy' 'Chicago' 'Chicago, Illinois'
+ 'Hog Butcher for the World' 'Land of smelly onions'
+ 'Ariel Community Academy' 'The weather in Chicago'
+ 'Chicago, Illinois, U.S.A.' 'Chicago, Illionis' 'Near North Montessori'
+ 'Religion in Chicago' 'Chicago Finance Committee' 'The Paris of America'
+ 'The city of Chicago' 'City of Chicago'
+ 'List of sister cities of Chicago' 'UN/LOCODE:USCHI'
+ 'Chicago theatre scene' 'Chicago, WI' 'The City of Broad Shoulders'
+ 'City of Broad Shoulders' 'Sister Cities of Chicago' 'Chicago il'
+ 'Chicago, Illinois, USA' 'Performing arts in Chicago'
+ 'Chicago Transportation Committee' 'Chicago, Wisconsin' 'City of chicago'
+ 'Chicago theater scene' 'Chicago, Il' 'Chicago, IL.' 'Chicago, Ill.'
+ 'City of Chicago, Illinois' 'Chi town' 'Chicago, United States'
+ 'Chicago (Ill.)' 'Transport in Chicago'
+ 'Chicago, Illinois, United States' 'Chicago (IL)' 'USCHI' 'Chichago'
+ 'Chcago' 'Chicago, Illinois, U.S.' 'Sister Cities Chicago' 'Chicago, USA'
+ 'Chi City' 'Chicago, IL' 'Chi-Town' 'Chicago theatre' 'Paris of America'
+ 'Chicago, Illinois, US' 'Chicago Illinois'
+ 'The city of Chicago, Illinois' 'Sister cities of Chicago']",Chicago,chicago,"['chiberia', 'sayre language academy', 'chicago', 'chicago illinois', 'hog butcher for the world', 'land of smelly onions', 'ariel community academy', 'the weather in chicago', 'chicago illinois usa', 'chicago illionis', 'near north montessori', 'religion in chicago', 'chicago finance committee', 'the paris of america', 'the city of chicago', 'city of chicago', 'list of sister cities of chicago', 'unlocodeuschi', 'chicago theatre scene', 'chicago wi', 'the city of broad shoulders', 'city of broad shoulders', 'sister cities of chicago', 'chicago il', 'chicago illinois usa', 'performing arts in chicago', 'chicago transportation committee', 'chicago wisconsin', 'city of chicago', 'chicago theater scene', 'chicago il', 'chicago il', 'chicago ill', 'city of chicago illinois', 'chi town', 'chicago united states', 'chicago ill', 'transport in chicago', 'chicago illinois united states', 'chicago il', 'uschi', 'chichago', 'chcago', 'chicago illinois us', 'sister cities chicago', 'chicago usa', 'chi city', 'chicago il', 'chitown', 'chicago theatre', 'paris of america', 'chicago illinois us', 'chicago illinois', 'the city of chicago illinois', 'sister cities of chicago']"
+37,Who became US Vice President when Spiro Agnew resigned?,"['President Gerald R. Ford' 'Gerald R. Ford Jr.'
+ 'Assassination attempts on Gerald Ford' 'Leslie Lynch King Jr.'
+ 'Leslie L King' 'Leslie King, Jr.' 'Ford administration' 'Gerald R Ford'
+ 'Leslie Lynch King, Jr' 'Birth and life of Gerald Ford'
+ 'Leslie Lynch King' 'Presidency of Gerald Ford administration'
+ 'Gerald fod' 'Vice President Ford' 'Nixon pardon' 'Ford Administration'
+ 'Presidency of Gerald R. Ford' 'Jerry Ford' 'U.S. President Gerald Ford'
+ 'Gerald Rudolph Ford' 'Gerald R. Ford' 'Presidency of Gerald Ford'
+ 'Gerald ford' 'Gerald R. Ford, Jr' 'Gerald Rudolph Ford Jr.'
+ 'Presidency of gerald ford' 'Gerald Rudolph, Jr. Ford'
+ 'President Gerald Ford' 'Gerald Ford, Jr.' 'Gerald R. Ford, Jr.'
+ 'Gerry Ford' 'Leslie Lynch King Jr' 'Gerald Ford' 'Leslie L. King'
+ 'Leslie Lynch King, Jr.' '38th President of the United States'
+ 'Leslie King, Jr' 'President Ford' 'Gerald Rudolph Ford, Jr.']",Gerald Ford,gerald ford,"['president gerald r ford', 'gerald r ford jr', 'assassination attempts on gerald ford', 'leslie lynch king jr', 'leslie l king', 'leslie king jr', 'ford administration', 'gerald r ford', 'leslie lynch king jr', 'birth and life of gerald ford', 'leslie lynch king', 'presidency of gerald ford administration', 'gerald fod', 'vice president ford', 'nixon pardon', 'ford administration', 'presidency of gerald r ford', 'jerry ford', 'us president gerald ford', 'gerald rudolph ford', 'gerald r ford', 'presidency of gerald ford', 'gerald ford', 'gerald r ford jr', 'gerald rudolph ford jr', 'presidency of gerald ford', 'gerald rudolph jr ford', 'president gerald ford', 'gerald ford jr', 'gerald r ford jr', 'gerry ford', 'leslie lynch king jr', 'gerald ford', 'leslie l king', 'leslie lynch king jr', '38th president of the united states', 'leslie king jr', 'president ford', 'gerald rudolph ford jr']"
+38,In which decade of the 20th century was Billy Crystal born?,"['The Forties' '1940–1949' '%6040s' '1940s' 'Nineteen-forties'
+ '1940s literature' ""'40s"" '1940-1949' ""1940's"" '1940s (decade)']",1940s,1940s,"['the forties', '19401949', '6040s', '1940s', 'nineteenforties', '1940s literature', '40s', '19401949', '1940s', '1940s decade']"
+39,Which George invented the Kodak roll-film camera?,['Eastman' 'Eastman (disambiguation)'],Eastman,eastman,"['eastman', 'eastman disambiguation']"
+40,Which series had the characters Felix Unger and Oscar Madison?,"['The Odd Couple' 'The Female Odd Couple' 'Oscar madison'
+ 'Murray Greshler' 'Oscar Madison']",The Odd Couple,the odd couple,"['the odd couple', 'the female odd couple', 'oscar madison', 'murray greshler', 'oscar madison']"
+41,Who along with Philips developed the CD in the late 70s?,"['Tokyo Tsushin Kogyo' 'DCR-DVD405E' 'DSC-P93' 'ソニー株式会社' 'DSC-T10'
+ 'Sony Corporation' 'DCR-TRV38' 'DCR-SR35E'
+ 'List of Sony shareholders and subsidiaries' 'Sony Style' 'Sony Corp.'
+ 'MODEL-NAME' 'Sony Entertainment' 'S0ny' 'Sony corporation'
+ 'The Sony Corporation' 'List of Sony products' 'DSC-WX100 v1.00'
+ 'Sony Electronics' 'Sony Europe'
+ 'List of assets owned by Sony Corporation' 'Sony'
+ 'Sony Broadcast & Professional Research Laboratories'
+ 'Tokyo Telecommunications Engineering' 'Sony EMCS'
+ 'Sony (Sony Corporation, Japan)' 'Sony Company' 'ソニー' 'Sony CISC'
+ 'Sony Store' 'HDR-SR12' 'SONY' 'DSC-WX100' 'Sonī Kabushiki Gaisha'
+ 'Sony.com' 'Sony Electronics Inc.' 'SonyStyle'
+ 'Tokyo Telecommunications Engineering Corporation' 'Sony Corp' 'MMCD'
+ 'Sony Group' 'Sony City']",Sony,sony,"['tokyo tsushin kogyo', 'dcrdvd405e', 'dscp93', 'ソニー株式会社', 'dsct10', 'sony corporation', 'dcrtrv38', 'dcrsr35e', 'list of sony shareholders and subsidiaries', 'sony style', 'sony corp', 'modelname', 'sony entertainment', 's0ny', 'sony corporation', 'the sony corporation', 'list of sony products', 'dscwx100 v100', 'sony electronics', 'sony europe', 'list of assets owned by sony corporation', 'sony', 'sony broadcast  professional research laboratories', 'tokyo telecommunications engineering', 'sony emcs', 'sony sony corporation japan', 'sony company', 'ソニー', 'sony cisc', 'sony store', 'hdrsr12', 'sony', 'dscwx100', 'sonī kabushiki gaisha', 'sonycom', 'sony electronics inc', 'sonystyle', 'tokyo telecommunications engineering corporation', 'sony corp', 'mmcd', 'sony group', 'sony city']"
+42,Where is the multinational Nestle based?,"['ISO 3166-1:CH' 'Svissland' 'Etymology of Switzerland'
+ 'Confederation Helvetia' 'Swizerland' 'Confederatio Helvetica'
+ 'Environmental Integrity Group' 'Confoederatio Helvetica' 'Svizra'
+ 'SWITZERLAND' 'Confédération suisse' 'SwissEnergy' 'Schweitz' 'Švýcarsko'
+ 'Die Schweiz' 'Schwitzerland' 'Confederation suisse' 'Der Schweiz'
+ 'Swiss Confederated States' 'Suiza' 'Switz' 'Switzeland' 'Schweiz'
+ 'Confederation Helvetica' 'Switserland' 'Suisse'
+ 'Schweizerische Eidgenossenschaft' 'Switzerland information'
+ 'Confederaziun Svizra' 'Switzer land' 'Switzerland'
+ 'Land of the Switzers' 'Swiss confederation' 'Confœderatio Helvetica'
+ 'Swiss' 'Confederation Suisse' 'Confederation of Helvatia'
+ 'Land of the Swiss' 'Confederaziun svizra' 'Svizzera' 'Swissland'
+ 'Swizterland' 'Confédération Suisse' 'Confederazione Svizzera'
+ 'Swiss Confederation']",Switzerland,switzerland,"['iso 31661ch', 'svissland', 'etymology of switzerland', 'confederation helvetia', 'swizerland', 'confederatio helvetica', 'environmental integrity group', 'confoederatio helvetica', 'svizra', 'switzerland', 'confédération suisse', 'swissenergy', 'schweitz', 'švýcarsko', 'die schweiz', 'schwitzerland', 'confederation suisse', 'der schweiz', 'swiss confederated states', 'suiza', 'switz', 'switzeland', 'schweiz', 'confederation helvetica', 'switserland', 'suisse', 'schweizerische eidgenossenschaft', 'switzerland information', 'confederaziun svizra', 'switzer land', 'switzerland', 'land of the switzers', 'swiss confederation', 'confœderatio helvetica', 'swiss', 'confederation suisse', 'confederation of helvatia', 'land of the swiss', 'confederaziun svizra', 'svizzera', 'swissland', 'swizterland', 'confédération suisse', 'confederazione svizzera', 'swiss confederation']"
+43,Do You Know Where You're Going To? was the theme from which film?,"['Mahoganies' 'Mahoganier' 'Mahogony' 'Mahagany' 'Mahogany' 'Mahoganish'
+ 'Mogany' 'Mahoganyish']",Mahogany,mahogany,"['mahoganies', 'mahoganier', 'mahogony', 'mahagany', 'mahogany', 'mahoganish', 'mogany', 'mahoganyish']"
+44,19969 was the Chinese year of which creature?,"['🐀' 'Species of rat' 'Ratus (genus)' 'Rats' 'Rattus rattus domesticus'
+ 'True rat' 'Rat subspecies' 'Rat IQ' 'Rat' 'Subspecies of rat' 'Rattus'
+ 'Rat feces' 'Stenomys' 'Ringie' 'List of rat species' 'Rat species']",Rat,rat,"['', 'species of rat', 'ratus genus', 'rats', 'rattus rattus domesticus', 'true rat', 'rat subspecies', 'rat iq', 'rat', 'subspecies of rat', 'rattus', 'rat feces', 'stenomys', 'ringie', 'list of rat species', 'rat species']"
+45,In the 90s how many points have been awarded for finishing second in a Grand Prix?,['six' '6'],6,6,"['six', '6']"
+46,Stapleton international airport is in which US state?,"['Colorado (State)' 'Colorful Colorado' 'Special districts of Colorado'
+ 'Insignia of the State of Colorado'
+ 'List of military facilities in Colorado' 'Coloradan'
+ 'Cuisines of Colorado' 'Colorado (U.S. state)'
+ 'List of professional sports teams in Colorado' 'Religion in Colorado'
+ 'Professional sport teams of Colorado' 'Rocky Mountain Empire'
+ 'Thirty-eighth State' '38th State' 'Coloradans' 'Colorado, United States'
+ 'The Centennial State' 'Colo.'
+ 'List of professional sports teams of Colorado'
+ 'Protected areas of Colorado' 'Education in Colorado' 'State of Colorado'
+ 'Columbine State' 'Thirty-Eighth State' 'Colorado (state)'
+ 'List of former professional sports teams of Colorado' 'US-CO'
+ 'Colorado protected areas' 'Mother of Rivers'
+ 'List of Colorado state insignia' 'Fine arts in Colorado'
+ 'Climate of Colorado' 'Professional sports in Colorado'
+ 'Colorado state nickname' 'Emblems of the State of Colorado' 'Colorado'
+ 'Colorado military facilities' 'Demographics of Colorado' 'Colorada'
+ 'Kolorado' 'Culture of Colorado' 'Colarado' 'Centennial State'
+ 'CO (state)' 'Buffalo Plains State' 'Military facilities in Colorado']",Colorado,colorado,"['colorado state', 'colorful colorado', 'special districts of colorado', 'insignia of the state of colorado', 'list of military facilities in colorado', 'coloradan', 'cuisines of colorado', 'colorado us state', 'list of professional sports teams in colorado', 'religion in colorado', 'professional sport teams of colorado', 'rocky mountain empire', 'thirtyeighth state', '38th state', 'coloradans', 'colorado united states', 'the centennial state', 'colo', 'list of professional sports teams of colorado', 'protected areas of colorado', 'education in colorado', 'state of colorado', 'columbine state', 'thirtyeighth state', 'colorado state', 'list of former professional sports teams of colorado', 'usco', 'colorado protected areas', 'mother of rivers', 'list of colorado state insignia', 'fine arts in colorado', 'climate of colorado', 'professional sports in colorado', 'colorado state nickname', 'emblems of the state of colorado', 'colorado', 'colorado military facilities', 'demographics of colorado', 'colorada', 'kolorado', 'culture of colorado', 'colarado', 'centennial state', 'co state', 'buffalo plains state', 'military facilities in colorado']"
+47,What was Kevin Kline's first movie?,"[""Sophie's Choice"" ""Sophie's Choice (disambiguation)"" 'Sophies Choice'
+ ""Sophie's choice""]",Sophie's Choice,sophies choice,"['sophies choice', 'sophies choice disambiguation', 'sophies choice', 'sophies choice']"
+48,Which actor had a Doberman Pinscher called Kirk?,"['Gloria Rabinowitz' 'Star Trek (Shatnerverse Novels)' 'Shatastic'
+ 'William Shatner' 'A Twist in the Tale (1998 TV series)' 'Shatneresque'
+ 'The Shat' 'Bill Shatner' 'Shatnerian' 'Nerine Kidd' 'The Shatters'
+ 'Gloria Rand' 'Willem shatner' 'William Alan Shatner' 'Shatner, William'
+ 'Will Shatner' 'Shatnernator'
+ 'William Shatner SciFi DVD of the Month Club']",William Shatner,william shatner,"['gloria rabinowitz', 'star trek shatnerverse novels', 'shatastic', 'william shatner', 'a twist in the tale 1998 tv series', 'shatneresque', 'the shat', 'bill shatner', 'shatnerian', 'nerine kidd', 'the shatters', 'gloria rand', 'willem shatner', 'william alan shatner', 'shatner william', 'will shatner', 'shatnernator', 'william shatner scifi dvd of the month club']"
+49,What day of the week was the Wall Street Crash?,"[""Thor's Day"" 'Guruvaar' ""Thor's day"" 'Thursdays' 'Thursday' 'Thurs.'
+ 'Thorsday' ""Jupiter's day""]",Thursday,thursday,"['thors day', 'guruvaar', 'thors day', 'thursdays', 'thursday', 'thurs', 'thorsday', 'jupiters day']"
+50,The US signed a treaty with which country to allow the construction of the Panama Canal?,"['Columbia' 'Columbia (municipality)' 'Columbia (song)'
+ 'Columbia automobile' 'Columbia (yacht)' 'Columbia (disambiguation)'
+ 'Columbia (town)']",Columbia,columbia,"['columbia', 'columbia municipality', 'columbia song', 'columbia automobile', 'columbia yacht', 'columbia disambiguation', 'columbia town']"
+51,What was Prince's last No 1 of the 80s?,['Batdance'],Batdance,batdance,['batdance']
+52,Man In The Mirror first featured on which Michel Jackson album?,"['Bad (disambiguation)' 'Bad (song)' 'Bad' 'BAD' 'BAD (disambiguation)'
+ 'Badness']",Bad,bad,"['bad disambiguation', 'bad song', 'bad', 'bad', 'bad disambiguation', 'badness']"
+53,Where was the first battle with US involvement in the Korean War?,"['水原' 'Suwon, Puwan' 'Suwŏn' 'Suwon Airfield' 'Suwon' 'Suweon' '수원'
+ 'Suwon City' 'Sannam Elementary School']",Suwon,suwon,"['水原', 'suwon puwan', 'suwŏn', 'suwon airfield', 'suwon', 'suweon', '수원', 'suwon city', 'sannam elementary school']"
+54,On which Caribbean island did Princess Diana spend he first Christmas after her divorce was announced?,"['Barbuda Island, Antigua and Barbuda' 'Barbuda Island' 'Barbuda colony'
+ 'Dependency of Barbuda, Antigua and Barbuda'
+ 'Barbuda, Antigua and Barbuda' 'Dependency of Barbuda'
+ 'Barbuda Dependency, Antigua and Barbuda' 'Barbuda' 'Island of Barbuda']",Barbuda,barbuda,"['barbuda island antigua and barbuda', 'barbuda island', 'barbuda colony', 'dependency of barbuda antigua and barbuda', 'barbuda antigua and barbuda', 'dependency of barbuda', 'barbuda dependency antigua and barbuda', 'barbuda', 'island of barbuda']"
+55,In which decade was Arnold Schwarzenegger born?,"['The Fifties' '1950s' '1950-1959' ""50's"" '1950’s' '1950–1959'
+ 'Nineteen-fifties' '1950s (decade)' '1950ies' ""1950's"" ""'50s"" '195%3F'
+ 'Fifties']",1950s,1950s,"['the fifties', '1950s', '19501959', '50s', '1950s', '19501959', 'nineteenfifties', '1950s decade', '1950ies', '1950s', '50s', '1953f', 'fifties']"
+56,Which musical featured the song Thank Heaven for Little Girls?,['Gigi' 'GiGi'],Gigi,gigi,"['gigi', 'gigi']"
+57,The Queen Elizabeth liner was destroyed by fire in the 70s in which harbour?,"['Kong Hong' 'Hong Kong, city' 'Hong kong as a financial center'
+ 'Hongkong,China' 'Hsian kang' 'Hongkong' 'Hong-kong' 'Hon Kon'
+ 'Hong Kong S. A. R.' 'Hong Kong/China' 'Hong Kong City' 'HK'
+ 'Name of Hong Kong' 'Hong Kong,China' 'Heung Gong' 'Hsiankang'
+ 'Hong Kong/Infobox' 'Hog Kog' 'Xiang Gang' 'Heung-Gong'
+ 'Hong Kong Special Administrative Republic' 'Honk Kong' '香港特別行政區'
+ 'Xiānggǎng' 'H.K.S.A.R.' '香港' 'Hsiang-kang' 'HKSAR' 'Hong-Kong' 'Hon kon'
+ 'Hong Kong SAR China' 'Hk' 'HongKong' 'Hong Kong/infobox'
+ 'Hong Kong China'
+ ""Hong Kong Special Administrative Region of the People's Republic of China""
+ 'HKSAROPRC' '香港特區' 'Hong Kong' 'Heung-gong' 'Hong Kong SAR'
+ 'SAR Hongkong' '香港特区'
+ 'Zhōnghuá rénmín gònghéguó xiānggǎng tèbié xíngzhèngqū'
+ 'Hong Kong S.A.R.' 'Hong Kong (China)' 'CN-91' '中華人民共和國香港特別行政區'
+ '中华人民共和国香港特别行政区' 'Sianggang' 'Hsangkang' 'Hongkong, China' 'HONG KONG'
+ 'Xiāng Gǎng' 'Hyanghang' 'Hong Kong Special Administration Region'
+ 'Hong cong' 'Hksar' 'China/Hong Kong' 'Hong Kong, Hong Kong' 'H K'
+ 'Hong kong' 'Hong Kong, China' 'SAR HongKong' 'ISO 3166-1:HK'
+ 'Hong Kong as a Financial Center' 'Hèunggóng' 'H.K.' 'Heunggong'
+ 'Shang gang' 'Xianggang' 'Hong Kong SAR, China' '香港特别行政区'
+ 'Hong Kong, SAR' 'Hong Kong Special Administrative Region'
+ 'Xianggang Tebie Xingzhengqu' 'Hong Kong cityscape' 'Hoong Kong'
+ 'Xiang gang' 'Hong Kong Special Administrative Region of China'
+ 'UN/LOCODE:HKHKG' 'Hoeng1 gong2']",Hong Kong,hong kong,"['kong hong', 'hong kong city', 'hong kong as a financial center', 'hongkongchina', 'hsian kang', 'hongkong', 'hongkong', 'hon kon', 'hong kong s a r', 'hong kongchina', 'hong kong city', 'hk', 'name of hong kong', 'hong kongchina', 'heung gong', 'hsiankang', 'hong konginfobox', 'hog kog', 'xiang gang', 'heunggong', 'hong kong special administrative republic', 'honk kong', '香港特別行政區', 'xiānggǎng', 'hksar', '香港', 'hsiangkang', 'hksar', 'hongkong', 'hon kon', 'hong kong sar china', 'hk', 'hongkong', 'hong konginfobox', 'hong kong china', 'hong kong special administrative region of the peoples republic of china', 'hksaroprc', '香港特區', 'hong kong', 'heunggong', 'hong kong sar', 'sar hongkong', '香港特区', 'zhōnghuá rénmín gònghéguó xiānggǎng tèbié xíngzhèngqū', 'hong kong sar', 'hong kong china', 'cn91', '中華人民共和國香港特別行政區', '中华人民共和国香港特别行政区', 'sianggang', 'hsangkang', 'hongkong china', 'hong kong', 'xiāng gǎng', 'hyanghang', 'hong kong special administration region', 'hong cong', 'hksar', 'chinahong kong', 'hong kong hong kong', 'h k', 'hong kong', 'hong kong china', 'sar hongkong', 'iso 31661hk', 'hong kong as a financial center', 'hèunggóng', 'hk', 'heunggong', 'shang gang', 'xianggang', 'hong kong sar china', '香港特别行政区', 'hong kong sar', 'hong kong special administrative region', 'xianggang tebie xingzhengqu', 'hong kong cityscape', 'hoong kong', 'xiang gang', 'hong kong special administrative region of china', 'unlocodehkhkg', 'hoeng1 gong2']"
+58,What breed of dog did Columbo own?,"['Basset Hound' 'Bassett hound' 'Basset hounds' 'Basset hound'
+ 'Basid hound']",Basset hound,basset hound,"['basset hound', 'bassett hound', 'basset hounds', 'basset hound', 'basid hound']"
+59,What was the first movie western called?,"['Josefa Jamarillo Carson' 'Rope Thrower' 'Christopher Carson'
+ 'Christopher Houston Carson' 'Kit Carson' 'Waa-Nibe'
+ 'Christopher %22Kit%22 Carson']",Kit Carson,kit carson,"['josefa jamarillo carson', 'rope thrower', 'christopher carson', 'christopher houston carson', 'kit carson', 'waanibe', 'christopher 22kit22 carson']"
+60,Which Oscar-winning actress was born on exactly the same day as actress Lindsay Wagner?,"['Meryl streep' 'Meryl Streep' 'Mary Streep' 'Streep' 'Mary Louise Streep'
+ 'Merril Streep' 'Meril streep']",Meryl Streep,meryl streep,"['meryl streep', 'meryl streep', 'mary streep', 'streep', 'mary louise streep', 'merril streep', 'meril streep']"
+61,Which Amendment to the Constitution brought in prohibition in 1920?,['18' '18th' 'eighteen'],18th,18th,"['18', '18th', 'eighteen']"
+62,Which oil scandal hit the US in 1924?,"['Teapot dome affair' 'Teapot dome scandal' 'Tea Pot Dome scandal'
+ 'Tea Pot Dome' 'Teapot Dome Scandal' 'Teapot Dome' 'Elk Hills oil field'
+ 'Teapot Dome scandal' 'Teapot scandal' 'Tea Pot Dome Scandal'
+ 'Tea Pot Dome Scandel']",Teapot Dome Scandal,teapot dome scandal,"['teapot dome affair', 'teapot dome scandal', 'tea pot dome scandal', 'tea pot dome', 'teapot dome scandal', 'teapot dome', 'elk hills oil field', 'teapot dome scandal', 'teapot scandal', 'tea pot dome scandal', 'tea pot dome scandel']"
+63,Phil Collins appeared in which Spielberg film with Robin Williams?,['Hook' 'HOOK'],Hook,hook,"['hook', 'hook']"
+64,1998 was the Chinese year of which creature?,"['Tigress' '🐅' 'Tigers in captivity' 'Tigris striatus' 'Tigers (animal)'
+ 'Mating tigers' 'Sexual behavior of tigers' '🐯'
+ 'Endangered Subspecies of Tiger' 'Tiger populations' 'Tigers'
+ 'Tigris regalis' 'Panthera Tigris' 'Tiger' 'F tigris' 'Tiger blood'
+ 'Naahar' 'African tiger' 'Panthera tigris' 'Felis tigris' 'Tigrine'
+ 'Endangered subspecies of tiger' 'Tiger cub' 'Tiger (wild)' 'Tiger urine'
+ 'F. tigris']",Tiger,tiger,"['tigress', '', 'tigers in captivity', 'tigris striatus', 'tigers animal', 'mating tigers', 'sexual behavior of tigers', '', 'endangered subspecies of tiger', 'tiger populations', 'tigers', 'tigris regalis', 'panthera tigris', 'tiger', 'f tigris', 'tiger blood', 'naahar', 'african tiger', 'panthera tigris', 'felis tigris', 'tigrine', 'endangered subspecies of tiger', 'tiger cub', 'tiger wild', 'tiger urine', 'f tigris']"
+65,Which country does musician Alfred Brendel come from?,"['The Republic of Austria' 'Oesterreich' 'Eastreach' 'Österrike'
+ 'Easterrealm' 'Austurriki' 'Republik Österreich' 'Osterreich'
+ 'Austurríki' 'Austrian Republic' 'Republik Osterreich' 'Avstria'
+ 'Österreich' 'Republik Oesterreich' 'Administrative divisions of Austria'
+ 'Ostria' 'ISO 3166-1:AT' 'Alpine Deutschen' 'Austria' 'Oostenrijk'
+ 'Architecture of Austria' 'Republic of Austria' 'Etymology of Austria'
+ 'Autriche' 'Austrian architecture']",Austria,austria,"['the republic of austria', 'oesterreich', 'eastreach', 'österrike', 'easterrealm', 'austurriki', 'republik österreich', 'osterreich', 'austurríki', 'austrian republic', 'republik osterreich', 'avstria', 'österreich', 'republik oesterreich', 'administrative divisions of austria', 'ostria', 'iso 31661at', 'alpine deutschen', 'austria', 'oostenrijk', 'architecture of austria', 'republic of austria', 'etymology of austria', 'autriche', 'austrian architecture']"
+66,Theodore Francis international airport is in which US state?,"['RhodeIsland' 'Villages of rhode island' ""Rogue's Island""
+ 'Rhode Island Treasurer' 'Rhode Island (U.S. state)'
+ 'Education in Rhode Island' 'Rhode Island General Treasurer'
+ 'Rhode island agriculture' 'Rhode Island and the Providence Plantations'
+ 'Demographics of Rhode Island' 'Rhode island and providence plantations'
+ 'Rhode Island (state)' 'State of Rhode Island' 'R.I.' 'Little Rhody'
+ ""Rhode Island Governor's Mansion"" 'The Ocean State' 'Rhode Islanders'
+ 'Rhode Islander' 'Symbols of Rhode Island' 'Transport in Rhode Island'
+ 'Villages of Rhode Island' 'Rhode Island and Providence Plantations'
+ 'R I' 'R.i.' 'Rhode Island' 'Geography of Rhode Island'
+ 'Rhode Island Villages' 'Religion in Rhode Island' '13th State'
+ 'The State of Rhode Island and Providence Plantations' 'Ocean State'
+ 'Culture of Rhode Island'
+ 'State of Rhode Island and Providence Plantations' 'Rode Island'
+ 'Rhode Island, United States' 'Sports in Rhode Island'
+ 'Economy of Rhode Island' 'Rhode island' 'Transportation in Rhode Island'
+ 'Climate of Rhode Island' 'Thirteenth State' 'US-RI'
+ 'Rhode Island cuisine' 'RI' 'Road Island']",Rhode Island,rhode island,"['rhodeisland', 'villages of rhode island', 'rogues island', 'rhode island treasurer', 'rhode island us state', 'education in rhode island', 'rhode island general treasurer', 'rhode island agriculture', 'rhode island and the providence plantations', 'demographics of rhode island', 'rhode island and providence plantations', 'rhode island state', 'state of rhode island', 'ri', 'little rhody', 'rhode island governors mansion', 'the ocean state', 'rhode islanders', 'rhode islander', 'symbols of rhode island', 'transport in rhode island', 'villages of rhode island', 'rhode island and providence plantations', 'r i', 'ri', 'rhode island', 'geography of rhode island', 'rhode island villages', 'religion in rhode island', '13th state', 'the state of rhode island and providence plantations', 'ocean state', 'culture of rhode island', 'state of rhode island and providence plantations', 'rode island', 'rhode island united states', 'sports in rhode island', 'economy of rhode island', 'rhode island', 'transportation in rhode island', 'climate of rhode island', 'thirteenth state', 'usri', 'rhode island cuisine', 'ri', 'road island']"
+67,In which soap did Demi Moore find fame?,"['Everyday Heroes' 'Genaral Hospital' 'General Hospital'
+ 'General Hospital (US TV series)' 'General Hospital (US TV Series)'
+ 'General Hospital (U.S. TV series)' 'General Hospital (1963-1977)']",General Hospital,general hospital,"['everyday heroes', 'genaral hospital', 'general hospital', 'general hospital us tv series', 'general hospital us tv series', 'general hospital us tv series', 'general hospital 19631977']"
+68,"To the nearest million, what is the population of London, England?",['seven million' '7million' '7 million'],7 million,7 million,"['seven million', '7million', '7 million']"
+69,What did Clarice Cliff create?,"['Pots' 'Pottery and porcelain' 'Pottery maker' 'Art ware'
+ 'Pottery-makers' 'Pottery-maker' 'Vase painting' 'Fine art pot'
+ 'Clay pottery' 'Ceramics' 'Pottery' 'Ceramicware' 'Art pottery'
+ 'Painted vase' 'Ceramic pot' 'Ceramic ware' 'Ceramics art' 'Pot throwing'
+ 'Pottery-making' 'Pottery making' 'Ceramic paint' 'Pottery makers'
+ 'Potterymaker' 'Ceramicist' 'Potterymaking' 'Clay pot' 'Pot'
+ 'Pottery manufacture' 'Coil pot' 'History of pottery' 'Ceramic wares'
+ 'Potterymakers' 'Making a pot']",Pottery,pottery,"['pots', 'pottery and porcelain', 'pottery maker', 'art ware', 'potterymakers', 'potterymaker', 'vase painting', 'fine art pot', 'clay pottery', 'ceramics', 'pottery', 'ceramicware', 'art pottery', 'painted vase', 'ceramic pot', 'ceramic ware', 'ceramics art', 'pot throwing', 'potterymaking', 'pottery making', 'ceramic paint', 'pottery makers', 'potterymaker', 'ceramicist', 'potterymaking', 'clay pot', 'pot', 'pottery manufacture', 'coil pot', 'history of pottery', 'ceramic wares', 'potterymakers', 'making a pot']"
+70,Which James Bond film features a song by Louis Armstrong?,"['Ohmss' 'OHMSS' ""On Her Majesty's Secret Service""
+ 'On Her Majestys Secret Service'
+ ""On Her Majesty's Secret Service (disambiguation)""]",On Her Majesty's Secret Service,on her majestys secret service,"['ohmss', 'ohmss', 'on her majestys secret service', 'on her majestys secret service', 'on her majestys secret service disambiguation']"
+71,In what year were US ground troops first dispatched to Vietnam?,"['one thousand, nine hundred and sixty-five' '1965']",1965,1965,"['one thousand nine hundred and sixtyfive', '1965']"
+72,In 1999 Anna Kournikova signed a lucrative contract to model what?,['Bras' 'Bras (disambiguation)'],Bras,bras,"['bras', 'bras disambiguation']"
+73,Which member of the Monkees came from Washington DC?,['Peter Thorkelson' 'Peter Tork'],Peter Tork,peter tork,"['peter thorkelson', 'peter tork']"
+74,Which ship was sunk by a German submarine in 1915 with a loss of 1400 lives including 128 Americans?,"['Roman Lusitania' 'Luso-' 'Lusitânia' 'Lusitania' 'Hispania Lusitania'
+ 'Lusitania (ancient region)' 'Roman province Lusitania'
+ 'Lusitania (Roman province)']",Lusitania,lusitania,"['roman lusitania', 'luso', 'lusitânia', 'lusitania', 'hispania lusitania', 'lusitania ancient region', 'roman province lusitania', 'lusitania roman province']"
+75,In what decade were video recorders first developed?,"['The Fifties' '1950s' '1950-1959' ""50's"" '1950’s' '50s' '1950–1959'
+ 'Nineteen-fifties' '1950s (decade)' '1950ies' ""1950's"" ""'50s"" '195%3F'
+ 'Fifties']",50s,50s,"['the fifties', '1950s', '19501959', '50s', '1950s', '50s', '19501959', 'nineteenfifties', '1950s decade', '1950ies', '1950s', '50s', '1953f', 'fifties']"
+76,Who had the noels Spy Hook and Spy Line published in the 80s?,"['Leonard Cyril Deighton' 'Len Deighton' ""Len Deighton's London Dossier""]",Len Deighton,len deighton,"['leonard cyril deighton', 'len deighton', 'len deightons london dossier']"
+77,the first credit cards were for use in what type of establishments?,"['Eateries' 'Cookshop' 'Restuarant' 'Restarant' 'Resteraunt'
+ 'Piqueteadero' 'Restaurant' 'Restaraunt' 'Restaurants' 'Resturants'
+ 'Resturant' 'Public food facility' 'Eatery' 'Theatre restaurant'
+ 'Resturaunt' 'Restuarent' 'Restauraunt' ""Chef's table"" 'Resterant']",Restaurants,restaurants,"['eateries', 'cookshop', 'restuarant', 'restarant', 'resteraunt', 'piqueteadero', 'restaurant', 'restaraunt', 'restaurants', 'resturants', 'resturant', 'public food facility', 'eatery', 'theatre restaurant', 'resturaunt', 'restuarent', 'restauraunt', 'chefs table', 'resterant']"
+78,In which country was Ursula Andrews born?,"['ISO 3166-1:CH' 'Svissland' 'Etymology of Switzerland'
+ 'Confederation Helvetia' 'Swizerland' 'Confederatio Helvetica'
+ 'Environmental Integrity Group' 'Confoederatio Helvetica' 'Svizra'
+ 'SWITZERLAND' 'Confédération suisse' 'SwissEnergy' 'Schweitz' 'Švýcarsko'
+ 'Die Schweiz' 'Schwitzerland' 'Confederation suisse' 'Der Schweiz'
+ 'Swiss Confederated States' 'Suiza' 'Switz' 'Switzeland' 'Schweiz'
+ 'Confederation Helvetica' 'Switserland' 'Suisse'
+ 'Schweizerische Eidgenossenschaft' 'Switzerland information'
+ 'Confederaziun Svizra' 'Switzer land' 'Switzerland'
+ 'Land of the Switzers' 'Swiss confederation' 'Confœderatio Helvetica'
+ 'Swiss' 'Confederation Suisse' 'Confederation of Helvatia'
+ 'Land of the Swiss' 'Confederaziun svizra' 'Svizzera' 'Swissland'
+ 'Swizterland' 'Confédération Suisse' 'Confederazione Svizzera'
+ 'Swiss Confederation']",Switzerland,switzerland,"['iso 31661ch', 'svissland', 'etymology of switzerland', 'confederation helvetia', 'swizerland', 'confederatio helvetica', 'environmental integrity group', 'confoederatio helvetica', 'svizra', 'switzerland', 'confédération suisse', 'swissenergy', 'schweitz', 'švýcarsko', 'die schweiz', 'schwitzerland', 'confederation suisse', 'der schweiz', 'swiss confederated states', 'suiza', 'switz', 'switzeland', 'schweiz', 'confederation helvetica', 'switserland', 'suisse', 'schweizerische eidgenossenschaft', 'switzerland information', 'confederaziun svizra', 'switzer land', 'switzerland', 'land of the switzers', 'swiss confederation', 'confœderatio helvetica', 'swiss', 'confederation suisse', 'confederation of helvatia', 'land of the swiss', 'confederaziun svizra', 'svizzera', 'swissland', 'swizterland', 'confédération suisse', 'confederazione svizzera', 'swiss confederation']"
+79,What was CBS TV news broadcaster Walter Cronkite's stock closing phrase?,"['Cronkite, Walter Leland, Jr.' 'Old Ironpants' 'Walter Cronkite Jr.'
+ ""And that's the way it is"" 'Walter Leland Cronkite, Jr.'
+ 'Walter conkrite' 'Walter Cronkite' 'Walter L. Cronkite Jr.'
+ 'Walter Leland Cronkite' 'Walter Conkrite' 'Walter Leland Cronkite Jr.'
+ 'Walter Kronkite']",And that's the way it is,and thats the way it is,"['cronkite walter leland jr', 'old ironpants', 'walter cronkite jr', 'and thats the way it is', 'walter leland cronkite jr', 'walter conkrite', 'walter cronkite', 'walter l cronkite jr', 'walter leland cronkite', 'walter conkrite', 'walter leland cronkite jr', 'walter kronkite']"
+80,Who had a 70s No 1 hit with Let Your Love Flow?,"['Howard Bellamy' 'Bellamy Brothers' 'The Bellamy Brothers'
+ 'David M. Bellamy' 'David Bellamy (singer)']",Bellamy Brothers,bellamy brothers,"['howard bellamy', 'bellamy brothers', 'the bellamy brothers', 'david m bellamy', 'david bellamy singer']"
+81,Which state renewed Mike Tyson's boxing license in 1998?,"['Silver State' 'Nevada, United States' 'Sports in Nevada'
+ 'Geography of Nevada' 'US-NV' ""Nevada's Southern Boundary 1861-1867""
+ 'Transportation in Nevada' 'The Sagebrush State' 'NV (state)'
+ 'Education in Nevada' 'Religion in Nevada' 'Nevadian' '36th State'
+ 'The Battle Born State' 'Thirty-Sixth State' 'Nev.'
+ 'Demographics of Nevada' 'Navada' 'Nevada Annulment' 'Nevada, USA'
+ 'Climate of Nevada' 'Economy of Nevada' 'Thirty-sixth State'
+ 'State of Nevada' 'Politics of Nevada' 'Nevadan' 'Silver state'
+ 'Nevada (U.S. state)' 'The Silver State' 'Tikaboo Valley'
+ 'Nevada (state)' 'Battle Born State' 'Transport in Nevada' 'Nevada']",Nevada,nevada,"['silver state', 'nevada united states', 'sports in nevada', 'geography of nevada', 'usnv', 'nevadas southern boundary 18611867', 'transportation in nevada', 'the sagebrush state', 'nv state', 'education in nevada', 'religion in nevada', 'nevadian', '36th state', 'the battle born state', 'thirtysixth state', 'nev', 'demographics of nevada', 'navada', 'nevada annulment', 'nevada usa', 'climate of nevada', 'economy of nevada', 'thirtysixth state', 'state of nevada', 'politics of nevada', 'nevadan', 'silver state', 'nevada us state', 'the silver state', 'tikaboo valley', 'nevada state', 'battle born state', 'transport in nevada', 'nevada']"
+82,Neil Armstrong was a pilot in which war?,"['Corean' 'Koreans (disambiguation)' 'Korean (disambiguation)' 'Koreang'
+ 'Korean' ""Korea'ng""]",Korean,korean,"['corean', 'koreans disambiguation', 'korean disambiguation', 'koreang', 'korean', 'koreang']"
+83,Which English-born US citizen hosted Masterpiece theater?,"['Alastair Cooke' 'Alistar Cooke' 'Alistar Cook' 'Cooke, Alistair'
+ 'Alfred Alistair Cooke' 'Alistair Cooke']",Alistair Cooke,alistair cooke,"['alastair cooke', 'alistar cooke', 'alistar cook', 'cooke alistair', 'alfred alistair cooke', 'alistair cooke']"
+84,Nickelodeon was founded in 1979 by which company?,['Warner Amex'],Warner Amex,warner amex,['warner amex']
+85,Which element along with polonium did the Curies discover?,['Radium' 'Radium (Ra)' 'Ra-226' 'Element 88'],Radium,radium,"['radium', 'radium ra', 'ra226', 'element 88']"
+86,In The Banana Splits what sort of animal was Snorky?,"['Elephantinely' 'Elephant tusks' 'Rogue Elephant' 'Elephant' '🐘'
+ 'Elephant hunting' 'Elephantineness' 'Elephant hunter' 'Rogue elephant'
+ 'Baby elephants' 'Brown elephants' 'ELEPHANT' 'Elephan' 'פיל'
+ 'Elephant population' 'Elephant evolution' 'Elefonts'
+ 'Evolution of elephants' 'Elephants' 'Mating elephants' 'Elaphant'
+ 'Elephant rage' 'Gestation period for elephants' 'Elephant tusk'
+ 'Sexual behavior of elephants']",Elephant,elephant,"['elephantinely', 'elephant tusks', 'rogue elephant', 'elephant', '', 'elephant hunting', 'elephantineness', 'elephant hunter', 'rogue elephant', 'baby elephants', 'brown elephants', 'elephant', 'elephan', 'פיל', 'elephant population', 'elephant evolution', 'elefonts', 'evolution of elephants', 'elephants', 'mating elephants', 'elaphant', 'elephant rage', 'gestation period for elephants', 'elephant tusk', 'sexual behavior of elephants']"
+87,Who had an 80s No 1 hit with Can't Fight This Feeling?,"['REO (album)' 'Alan Gratzer' 'R.E.O. Speedwagon' 'REO Speedwagon'
+ 'Michael Bryan Murphy' ""Can't Stop Rockin"" 'Reo Speedwagon'
+ 'R.E.O Speedwagon']",REO Speedwagon,reo speedwagon,"['reo album', 'alan gratzer', 'reo speedwagon', 'reo speedwagon', 'michael bryan murphy', 'cant stop rockin', 'reo speedwagon', 'reo speedwagon']"
+88,Which parallel was the truce line in the Korean War?,['38th Parallel' '38th parallel' '38th parallel (disambiguation)'],38th Parallel,38th parallel,"['38th parallel', '38th parallel', '38th parallel disambiguation']"
+89,On a computer keyboard which letter is between A and D?,['🅢' 'Ess' 'Ⓢ' 'S (letter)' 'S' '⒮' '🄢' 'Ｓ' 'ⓢ' '🆂' '🅂'],S,s,"['', 'ess', '', 's letter', 's', '', '', 'ｓ', '', '', '']"
+90,"Which musical featured the song Flash Bang, Wallop?","['One-half' '.5' '0.5' 'One half' 'Halves' 'Half' 'Halfe' '½'
+ '0.5 (number)']",Half,half,"['onehalf', '5', '05', 'one half', 'halves', 'half', 'halfe', '½', '05 number']"
+91,What was Hitchcock's first sound movie?,"['Blackmailer' 'Blackmailing' 'Blackmail' 'R v Lawrence and Pomroy'
+ 'Blackmailed' 'Blackmails' 'Black mail']",Blackmail,blackmail,"['blackmailer', 'blackmailing', 'blackmail', 'r v lawrence and pomroy', 'blackmailed', 'blackmails', 'black mail']"
+92,Which newspaper did Jackie Kennedy work for just before her marriage?,"['Washington Times (original)' 'Washington Times-Herald'
+ 'Washington Times Herald']",Washington Times Herald,washington times herald,"['washington times original', 'washington timesherald', 'washington times herald']"
+93,What are the international registration letters of a vehicle from Turkey?,['T.R.' 'T.r.' 'Tr.' 'TR (disambiguation)' 'TR' 'Tr' 'T. R.' 'T R'],TR,tr,"['tr', 'tr', 'tr', 'tr disambiguation', 'tr', 'tr', 't r', 't r']"
+94,Who wrote The Turn Of The Screw in the 19th century and The Ambassadors in the 20th?,"['The Finer Grain' 'Henry james' 'James, Henry' 'Henry James']",Henry James,henry james,"['the finer grain', 'henry james', 'james henry', 'henry james']"
+95,Which American nuclear submarine was the first to sail across the North Pole under the ice cap?,"['Nautilus' 'Nautilid' 'Nautili' 'Nautilidae' 'Eutrephoceratidae'
+ 'Nautilus (zoology)']",Nautilus,nautilus,"['nautilus', 'nautilid', 'nautili', 'nautilidae', 'eutrephoceratidae', 'nautilus zoology']"
+96,What was John Glenn/'s first spacecraft called?,"['Mercury 6' 'Mercury Atlas 6' 'Mercury-Atlas 6' 'Friendship VII'
+ 'Friendship vii' 'Mercury-Atlas (MA) 6' 'Mercury Friendship 7'
+ 'Friendship Seven' 'Friendship 7']",Friendship 7,friendship 7,"['mercury 6', 'mercury atlas 6', 'mercuryatlas 6', 'friendship vii', 'friendship vii', 'mercuryatlas ma 6', 'mercury friendship 7', 'friendship seven', 'friendship 7']"
+97,Which branch of medicine is concerned with disorders of the blood?,"['Automated hematology' 'Haematological' 'Haematology'
+ 'Bone Marrow Disease' 'Haematologist' 'Heamatology' 'Blood disorder'
+ 'Blood disease' 'Hemotoligists' 'Hematology' 'Hematologic'
+ 'Blood disorders' 'Heamatologic diseases' 'Hematologic agents'
+ 'Blood Disease' 'Pediatric hematologist' 'Hematologist' 'Hematologists'
+ 'Cytohematology']",Haematology,haematology,"['automated hematology', 'haematological', 'haematology', 'bone marrow disease', 'haematologist', 'heamatology', 'blood disorder', 'blood disease', 'hemotoligists', 'hematology', 'hematologic', 'blood disorders', 'heamatologic diseases', 'hematologic agents', 'blood disease', 'pediatric hematologist', 'hematologist', 'hematologists', 'cytohematology']"
+98,Where was The Iron Triangle?,"['Độc lập - tự do - hạnh phúc' 'Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam'
+ '越南社會主義共和國' 'ISO 3166-1:VN' 'SRVN' 'VIETNAM' 'CHXHCN Vietnam'
+ 'Viet Nam Socialist Repub' 'SRoV' 'S.R. Vietnam' 'Languages of Viet Nam'
+ 'Communist Vietnam' 'Red Vietnam (modern)' 'Doc lap, tu do, hanh phuc'
+ ""People's Republic of Vietnam"" 'VietNam' 'Việtnam'
+ 'Socialist Republic of Viet Nam' 'Yue Nan' 'Viêtnam'
+ 'Độc lập, tự do, hạnh phúc' 'SR Vietnam' 'Yuenan' 'Vietman' 'Vietnarm'
+ 'Viet nam' 'Veitnam' 'Languages of Vietnam' 'Viêt Nam' 'Vietnam'
+ 'The Socialist Republic of Vietnam' 'Cong Hoa Xa Hoi Chu Nghia Viet Nam'
+ 'Etymology of Vietnam' 'Socialist Republic of Vietnam'
+ 'Doc lap - tu do - hanh phuc' 'Cộng hòa Xã hội Chủ nghĩa Việt Nam'
+ 'Viet-Nam' 'Viet Nam' 'Vjet-Namo' 'Cong hoa Xa hoi Chu nghia Viet Nam'
+ 'Vietnamese Republic' 'Việt Nam']",Vietnam,vietnam,"['độc lập  tự do  hạnh phúc', 'cộng hòa xã hội chủ nghĩa việt nam', '越南社會主義共和國', 'iso 31661vn', 'srvn', 'vietnam', 'chxhcn vietnam', 'viet nam socialist repub', 'srov', 'sr vietnam', 'languages of viet nam', 'communist vietnam', 'red vietnam modern', 'doc lap tu do hanh phuc', 'peoples republic of vietnam', 'vietnam', 'việtnam', 'socialist republic of viet nam', 'yue nan', 'viêtnam', 'độc lập tự do hạnh phúc', 'sr vietnam', 'yuenan', 'vietman', 'vietnarm', 'viet nam', 'veitnam', 'languages of vietnam', 'viêt nam', 'vietnam', 'the socialist republic of vietnam', 'cong hoa xa hoi chu nghia viet nam', 'etymology of vietnam', 'socialist republic of vietnam', 'doc lap  tu do  hanh phuc', 'cộng hòa xã hội chủ nghĩa việt nam', 'vietnam', 'viet nam', 'vjetnamo', 'cong hoa xa hoi chu nghia viet nam', 'vietnamese republic', 'việt nam']"
+99,What is the correct name of laughing gas?,"['Happy gas' 'Hippie crack' 'Nitros' 'Nitrous oxide'
+ 'ATCvet code QN01AX13' 'Inhaling Nitrous Oxide' 'Nitrous oxide system'
+ 'Laughy gas' 'Nitrouse oxide' 'Laugh-making gas' 'N₂O' 'Hippy crack'
+ 'N2O' 'Nitrous Oxide' 'Laughing gas' 'Dinitrogen monoxide'
+ 'Phlogisticated nitrous air' 'ATC code N01AX13'
+ 'Effects of nitrous oxide on the body'
+ 'Recreational use of nitrous oxide' 'Nitrogen(I) oxide' 'N2O-N' 'N2o'
+ 'N 2 O' 'Laughing Gas' 'Nitroux oxide' 'Dinitrogen Monoxide' 'E942'
+ 'Nitrus oxide' 'Factitious airs']",Nitrous oxide,nitrous oxide,"['happy gas', 'hippie crack', 'nitros', 'nitrous oxide', 'atcvet code qn01ax13', 'inhaling nitrous oxide', 'nitrous oxide system', 'laughy gas', 'nitrouse oxide', 'laughmaking gas', 'n₂o', 'hippy crack', 'n2o', 'nitrous oxide', 'laughing gas', 'dinitrogen monoxide', 'phlogisticated nitrous air', 'atc code n01ax13', 'effects of nitrous oxide on the body', 'recreational use of nitrous oxide', 'nitrogeni oxide', 'n2on', 'n2o', 'n 2 o', 'laughing gas', 'nitroux oxide', 'dinitrogen monoxide', 'e942', 'nitrus oxide', 'factitious airs']"
+100,What is the distance between bases on a little league baseball field?,['60 distance' '60 feet' 'sixty  distance'],60 feet,60 feet,"['60 distance', '60 feet', 'sixty  distance']"
+101,How many home runs did baseball great Ty Cobb hit in the three world series in which he played?,['None' 'None (disambiguation)'],None,none,"['none', 'none disambiguation']"
+102,"In cross-country bike racing, what do the initials BMX represent?",['Bicycle moto x (cross)'],Bicycle moto x (cross),bicycle moto x cross,['bicycle moto x cross']
+103,"After retiring as a player, with what team did baseball great Babe Ruth spend one year as a coach?",['The Brooklyn Dodgers in 1938'],The Brooklyn Dodgers in 1938,the brooklyn dodgers in 1938,['the brooklyn dodgers in 1938']
+104,What is the maximum weight permitted for calves in rodeo calf-roping competition?,['350 pounds. The minimum is 200 pounds'],350 pounds. The minimum is 200 pounds,350 pounds the minimum is 200 pounds,['350 pounds the minimum is 200 pounds']
+105,What baseball player hit the only home run of his 212-year major league career off his own brother?,"['Joe Nickro in 1976. Nickro, a pitcher with the Houston Astros, hit a four-bagger off his brother Phil, who was pitching fro the Atlanta Braves. Houston won the game, 4-3']","Joe Nickro in 1976. Nickro, a pitcher with the Houston Astros, hit a four-bagger off his brother Phil, who was pitching fro the Atlanta Braves. Houston won the game, 4-3",joe nickro in 1976 nickro a pitcher with the houston astros hit a fourbagger off his brother phil who was pitching fro the atlanta braves houston won the game 43,['joe nickro in 1976 nickro a pitcher with the houston astros hit a fourbagger off his brother phil who was pitching fro the atlanta braves houston won the game 43']
+106,Brooks Robinson and Carl Yastrzemski hold the major league baseball record for playing the greatest number of seasons with the same team. How many years did they play-- and with what teams?,"['23 years. Third baseman Robinson played with the Baltimore Orioles from 1955 to 1977; Carl Yastrzemski, outfielder/first baseman, played with the Boston Red Sox from 1961 to 1983']","23 years. Third baseman Robinson played with the Baltimore Orioles from 1955 to 1977; Carl Yastrzemski, outfielder/first baseman, played with the Boston Red Sox from 1961 to 1983",23 years third baseman robinson played with the baltimore orioles from 1955 to 1977 carl yastrzemski outfielderfirst baseman played with the boston red sox from 1961 to 1983,['23 years third baseman robinson played with the baltimore orioles from 1955 to 1977 carl yastrzemski outfielderfirst baseman played with the boston red sox from 1961 to 1983']
+107,"Under the rules outlined in the charter of the International Olympic Committee, how much pure gold must there be in each gold medal awarded to first-place winners?",['At least 6 grams. Silver medals must be at least .925 sterling silver'],At least 6 grams. Silver medals must be at least .925 sterling silver,at least 6 grams silver medals must be at least 925 sterling silver,['at least 6 grams silver medals must be at least 925 sterling silver']
+108,Who was the famous great-great-grandfather of San Francisco 49er quarterback Steve Young?,['Mormon leader Brigham Young'],Mormon leader Brigham Young,mormon leader brigham young,['mormon leader brigham young']
+109,How many of the four Grand Slam trophies in tennis are gold; how many are silver?,"['Only the Wimbledon trophy is gold; the others--for the U.S. Open, the French Open and the Australian Open--are sliver']","Only the Wimbledon trophy is gold; the others--for the U.S. Open, the French Open and the Australian Open--are sliver",only the wimbledon trophy is gold the othersfor the us open the french open and the australian openare sliver,['only the wimbledon trophy is gold the othersfor the us open the french open and the australian openare sliver']
+110,"""What breakfast food gets its name from the German word for """"stirrup""""?""","['New York bagel' 'American bagel' 'Biegel' 'Bagels' 'Beygl' 'The Bagel'
+ '“everything” bagel' 'Bagel' 'New York-style bagel' 'Water bagel'
+ '%22Everything%22 Bagel' 'Everything bagel' 'Salt bagel' 'BAGELS'
+ '%22everything%22 bagel' 'Beigel' 'Bagles' 'New York style bagel'
+ 'Everything Bagel']",The Bagel,the bagel,"['new york bagel', 'american bagel', 'biegel', 'bagels', 'beygl', 'the bagel', 'everything bagel', 'bagel', 'new yorkstyle bagel', 'water bagel', '22everything22 bagel', 'everything bagel', 'salt bagel', 'bagels', '22everything22 bagel', 'beigel', 'bagles', 'new york style bagel', 'everything bagel']"
+111,What popular drink did a Dutch medical professor produce in his laboratory while trying to come up with a blood cleanser that could be sold in drugstores?,"['Mothers ruin' 'List of gins' 'List of gin brands' 'London Dry Gin' 'GIN'
+ 'Gins' 'Gin']",Gin,gin,"['mothers ruin', 'list of gins', 'list of gin brands', 'london dry gin', 'gin', 'gins', 'gin']"
+112,On what vegetable did an ancient Egyptian place his right hand when taking an oath?,['The onion. Its round shape symbolized eternity'],The onion. Its round shape symbolized eternity,the onion its round shape symbolized eternity,['the onion its round shape symbolized eternity']
+113,What American city produces most of the egg rolls sold in grocery stores in the United States?,"['Houstonians' 'Houston, Texas' 'The City of Houston' 'Houstan, TX'
+ 'Houston texas' 'City of Houston' 'Media of Houston' 'Houston city'
+ 'Houstan, Texas' 'Houston, Texas, USA' 'Ciudadehouston.org'
+ 'Media in Houston' 'Houston Texas' 'Houston, Texas (redir)'
+ 'Houston, USA' 'The Energy Capital of the World' 'Houston, United States'
+ 'Houston, Texas, U.S.A.' 'Houston, Texas, U.S.' 'Houstontx.gov'
+ 'Houston, TX, USA' 'Houston, US-TX' 'Hoston' 'UN/LOCODE:USHOU'
+ 'Houston, Texas, United States' 'Houston, Tx' 'Houston' 'Houston, texas'
+ 'Houston,Texas' 'Houston, Tex.' 'Houstan' 'Houston (TX)' 'Houston TX'
+ 'Houston,TX' 'City of Houston, Texas' 'Houston, TX'
+ 'Houston,Texas, United States']",Houston Texas,houston texas,"['houstonians', 'houston texas', 'the city of houston', 'houstan tx', 'houston texas', 'city of houston', 'media of houston', 'houston city', 'houstan texas', 'houston texas usa', 'ciudadehoustonorg', 'media in houston', 'houston texas', 'houston texas redir', 'houston usa', 'the energy capital of the world', 'houston united states', 'houston texas usa', 'houston texas us', 'houstontxgov', 'houston tx usa', 'houston ustx', 'hoston', 'unlocodeushou', 'houston texas united states', 'houston tx', 'houston', 'houston texas', 'houstontexas', 'houston tex', 'houstan', 'houston tx', 'houston tx', 'houstontx', 'city of houston texas', 'houston tx', 'houstontexas united states']"
+114,Italy leads the world in pasta consumption with 61.7 pounds eaten per person per year. What country is second?,"['Venezuela, where the annual pasta consumption is 27.9 pounds']","Venezuela, where the annual pasta consumption is 27.9 pounds",venezuela where the annual pasta consumption is 279 pounds,['venezuela where the annual pasta consumption is 279 pounds']
+115,"When Birdseye introduced the first frozen food in 1930, what did the company call it/",['Frosted food'],Frosted food,frosted food,['frosted food']
+116,Which 100-mile long waterway links the Mediterranean and the Red Sea?,"['Suez Canal Zone' 'Suez Channel' 'Suez canal' 'Nile Canal' 'Suez Canal'
+ 'Suez Canal (Egypt)' ""Egypt's Canal Zone"" 'The suez canal']",Suez Canal,suez canal,"['suez canal zone', 'suez channel', 'suez canal', 'nile canal', 'suez canal', 'suez canal egypt', 'egypts canal zone', 'the suez canal']"
+117,In which country is the Aswan Dam?,"['EGY' 'Arab Republic of Egypt' 'A .R . EGYPT'
+ 'The Arab Republic of Egypt' 'Eygpt' 'Etymology of Egypt' 'مصر' 'Kemmet'
+ 'Gift of the Nile' 'Arab Republic Of Egypt' 'Names of Egypt' 'Miṣr'
+ 'A .R . Egypt' 'Eytp' 'National identity of Egyptians'
+ ""Jumhuriyat Misr al'Arabiyah"" 'Eypt' 'Egyptian Republic' 'Ejipt'
+ 'Name of Egypt' 'Egipto' 'Kimet' 'جمهوريّة مصرالعربيّة' 'Egypte'
+ 'Egypt (name)' 'Egypt' 'جمهورية مصرالعربية' 'A.R. Egypt'
+ 'Republic of Eygpt' 'Égypte' 'Second Egyptian Republic' 'Egipt'
+ 'ISO 3166-1:EG' 'Egypt info']",Egypt,egypt,"['egy', 'arab republic of egypt', 'a r  egypt', 'the arab republic of egypt', 'eygpt', 'etymology of egypt', 'مصر', 'kemmet', 'gift of the nile', 'arab republic of egypt', 'names of egypt', 'miṣr', 'a r  egypt', 'eytp', 'national identity of egyptians', 'jumhuriyat misr alarabiyah', 'eypt', 'egyptian republic', 'ejipt', 'name of egypt', 'egipto', 'kimet', 'جمهورية مصرالعربية', 'egypte', 'egypt name', 'egypt', 'جمهورية مصرالعربية', 'ar egypt', 'republic of eygpt', 'égypte', 'second egyptian republic', 'egipt', 'iso 31661eg', 'egypt info']"
+118,Where did Idi Amin rule from 1971-1979?,"['Ugandese' 'Ugandans' 'Republic of uganda' 'Ouganda' 'ISO 3166-1:UG'
+ 'Republic of Uganda' 'People of Uganda' 'Ugandan people' 'Uganda'
+ 'Ugandan' 'The Republic of Uganda']",Uganda,uganda,"['ugandese', 'ugandans', 'republic of uganda', 'ouganda', 'iso 31661ug', 'republic of uganda', 'people of uganda', 'ugandan people', 'uganda', 'ugandan', 'the republic of uganda']"
+119,Which country has the rand as its currency?,"['South africa' ""South Africa's"" 'Southafrica'
+ 'Third Republic (South Africa)' 'Republiek van Suid-Afrika' ""Sou'frica""
+ 'Zuid Afrika' 'Zuid-Afrika' 'ISO 3166-1:ZA' 'South-African' 'S Africa'
+ 'Zuid Africa' 'Mzansi' 'Afrique du sud' 'Zuidafrika' 'Ningizimu Afrika'
+ 'Capital of South Africa' 'Suid-Afrika' 'South-Africa'
+ 'Rep. of SOUTH AFRICA' 'The Republic of South Africa' 'Suid Africa'
+ 'Azania/South Africa' 'S Afr' 'Saffa' 'South African' 'Seth efrika'
+ 'South Africa' 'Soufrica' 'Republic of south africa' 'South Africaà'
+ 'The Beloved Country' 'S. Africa' 'Rep. of South Africa' 'South Africans'
+ 'Republic of South Africa']",South Africa,south africa,"['south africa', 'south africas', 'southafrica', 'third republic south africa', 'republiek van suidafrika', 'soufrica', 'zuid afrika', 'zuidafrika', 'iso 31661za', 'southafrican', 's africa', 'zuid africa', 'mzansi', 'afrique du sud', 'zuidafrika', 'ningizimu afrika', 'capital of south africa', 'suidafrika', 'southafrica', 'rep of south africa', 'the republic of south africa', 'suid africa', 'azaniasouth africa', 's afr', 'saffa', 'south african', 'seth efrika', 'south africa', 'soufrica', 'republic of south africa', 'south africaà', 'the beloved country', 's africa', 'rep of south africa', 'south africans', 'republic of south africa']"
+120,What is the former name of the People's Republic of Venin?,"['Dahomey kingdom' 'Dohomey' 'Danhome' 'Dahomey' 'Kingdom of Dahomey'
+ 'DHY' 'Dahomeyan']",Dohomey,dohomey,"['dahomey kingdom', 'dohomey', 'danhome', 'dahomey', 'kingdom of dahomey', 'dhy', 'dahomeyan']"
+121,In which country are Tangier and Casablanca?,"['ISO 3166-1:MA' 'Al-Mamlakah al-Maġribiyya' 'Maroc' 'Royaume du Maroc'
+ 'Norocco' 'Moraco' 'Sultanate of Fez' 'Etymology of Morocco' 'المغرب'
+ 'Al-Mamlaka al-Maġribiyya' 'Maroc (disambiguation)' 'Morroco' 'Al-Maġrib'
+ 'Lmaġrib' 'Sherifian Empire' 'Maroco' 'Name of Morocco' 'Morrocco'
+ 'Moroccan Kingdom' 'Morocco' 'Morrocan' 'Al-Mamlakah al-Maġribiyah'
+ 'Moroco' 'Marokko' 'المملكة المغربية' 'Marocko' 'Sultanate of Morocco'
+ 'Al-Mamlaka al-Maghrebia' 'Kingdom of Morocco']",Morocco,morocco,"['iso 31661ma', 'almamlakah almaġribiyya', 'maroc', 'royaume du maroc', 'norocco', 'moraco', 'sultanate of fez', 'etymology of morocco', 'المغرب', 'almamlaka almaġribiyya', 'maroc disambiguation', 'morroco', 'almaġrib', 'lmaġrib', 'sherifian empire', 'maroco', 'name of morocco', 'morrocco', 'moroccan kingdom', 'morocco', 'morrocan', 'almamlakah almaġribiyah', 'moroco', 'marokko', 'المملكة المغربية', 'marocko', 'sultanate of morocco', 'almamlaka almaghrebia', 'kingdom of morocco']"
+122,Who was the Egyptian president who was assassinated in 1981?,['Sadat'],Sadat,sadat,['sadat']
+123,Which country was called Upper Volta until 1984?,"['Bourkina-Fasso' 'Maximes, Thoughts and Riddles of the Mossi'
+ 'Burkina Fasso' 'Burkina' 'Bourkina Faso'
+ 'Maximes, pensées et devinettes mossi' 'Burkinabè' 'Berkina faso'
+ 'ISO 3166-1:BF' 'Burkina faso' 'Faso' 'Burkina Fasoan' 'Bourkina Fasso'
+ 'Burkinafaso' 'Burkino Faso' 'Burkina-Faso' 'Burkina Faso'
+ 'Burkina Fatso']",Burkina Faso,burkina faso,"['bourkinafasso', 'maximes thoughts and riddles of the mossi', 'burkina fasso', 'burkina', 'bourkina faso', 'maximes pensées et devinettes mossi', 'burkinabè', 'berkina faso', 'iso 31661bf', 'burkina faso', 'faso', 'burkina fasoan', 'bourkina fasso', 'burkinafaso', 'burkino faso', 'burkinafaso', 'burkina faso', 'burkina fatso']"
+124,Who was the Egyptian king whose tomb an treasures were discovered in the Valley of the Kings in 1922?,"['King Tut' 'Tutanhamon' 'Tutankamun' 'Tutankhamen' 'Nebkheprure'
+ 'Tut-Anj-Amon' 'King Tutankhamun' 'Tutankhaten' 'Tutankamen' 'King tut'
+ 'Tutankhaumen' 'Tutenkhamun' ""King Tut's Death"" 'Tut-ankh-amun'
+ ""Tutankhamen's Death Mask"" 'Tutankamon' 'Kingtut' 'Tutenkamen'
+ 'Living Image of Amun' 'Tutankhamum' 'Tutankhamun' 'Come on, Tutan'
+ 'Tuthankamun' 'Tut Anj Amon' 'Tutankhaton' 'King Tutankhamen'
+ 'Pharaoh Tutankhamun' 'The Boy King' 'Living Image of Aten' 'Tutankhamon'
+ 'Tuthankamen' 'Nebkheperure Tutankhamun' 'Tutenkhamen' 'Nebkheperure'
+ 'Tutankhanum']",Tutankhamen,tutankhamen,"['king tut', 'tutanhamon', 'tutankamun', 'tutankhamen', 'nebkheprure', 'tutanjamon', 'king tutankhamun', 'tutankhaten', 'tutankamen', 'king tut', 'tutankhaumen', 'tutenkhamun', 'king tuts death', 'tutankhamun', 'tutankhamens death mask', 'tutankamon', 'kingtut', 'tutenkamen', 'living image of amun', 'tutankhamum', 'tutankhamun', 'come on tutan', 'tuthankamun', 'tut anj amon', 'tutankhaton', 'king tutankhamen', 'pharaoh tutankhamun', 'the boy king', 'living image of aten', 'tutankhamon', 'tuthankamen', 'nebkheperure tutankhamun', 'tutenkhamen', 'nebkheperure', 'tutankhanum']"
+125,Name the East African country which lies on the equator.,"['Kenyan' 'Prehistory of Kenya' 'Kenya-Africa' 'ISO 3166-1:KE'
+ 'Jamhuri ya Kenya' 'Kenya' 'Republic of Kenya' 'Kenya (disambiguation)'
+ 'Etymology of Kenya']",Kenya,kenya,"['kenyan', 'prehistory of kenya', 'kenyaafrica', 'iso 31661ke', 'jamhuri ya kenya', 'kenya', 'republic of kenya', 'kenya disambiguation', 'etymology of kenya']"
+126,What are the two main arms of the River Nile called?,['Blue Nile and White Nile'],Blue Nile and White Nile,blue nile and white nile,['blue nile and white nile']
+127,In which country did King Hassan II ascend the throne in 1961?,"['ISO 3166-1:MA' 'Al-Mamlakah al-Maġribiyya' 'Maroc' 'Royaume du Maroc'
+ 'Norocco' 'Moraco' 'Sultanate of Fez' 'Etymology of Morocco' 'المغرب'
+ 'Al-Mamlaka al-Maġribiyya' 'Maroc (disambiguation)' 'Morroco' 'Al-Maġrib'
+ 'Lmaġrib' 'Sherifian Empire' 'Maroco' 'Name of Morocco' 'Morrocco'
+ 'Moroccan Kingdom' 'Morocco' 'Morrocan' 'Al-Mamlakah al-Maġribiyah'
+ 'Moroco' 'Marokko' 'المملكة المغربية' 'Marocko' 'Sultanate of Morocco'
+ 'Al-Mamlaka al-Maghrebia' 'Kingdom of Morocco']",Morocco,morocco,"['iso 31661ma', 'almamlakah almaġribiyya', 'maroc', 'royaume du maroc', 'norocco', 'moraco', 'sultanate of fez', 'etymology of morocco', 'المغرب', 'almamlaka almaġribiyya', 'maroc disambiguation', 'morroco', 'almaġrib', 'lmaġrib', 'sherifian empire', 'maroco', 'name of morocco', 'morrocco', 'moroccan kingdom', 'morocco', 'morrocan', 'almamlakah almaġribiyah', 'moroco', 'marokko', 'المملكة المغربية', 'marocko', 'sultanate of morocco', 'almamlaka almaghrebia', 'kingdom of morocco']"
+128,Which British general was killed at Khartoum in 1885?,['Gordon (disambiguation)' 'Gordon' 'Gordon (name)' 'Gordons'],Gordon,gordon,"['gordon disambiguation', 'gordon', 'gordon name', 'gordons']"
+129,On the border of which two countries is Victoria Falls?,['Zambia and Zimbabwe'],Zambia and Zimbabwe,zambia and zimbabwe,['zambia and zimbabwe']
+130,What is the name of the volcanic valley that runs from the Sinai peninsula to central Mozambique?,"['Syrian-African rift' 'Great rift valley' 'Great Rift Valley'
+ 'Syrian-East African Rift' 'Great Rift Valley (geographical concept)'
+ 'Syrian-African Rift Valley' 'Great Rift Valley, geographical concept'
+ 'Great Rift valley' 'The Great Rift Valley']",Great Rift Valley,great rift valley,"['syrianafrican rift', 'great rift valley', 'great rift valley', 'syrianeast african rift', 'great rift valley geographical concept', 'syrianafrican rift valley', 'great rift valley geographical concept', 'great rift valley', 'the great rift valley']"
+131,Which actor won an Academy Award for his performance in The African Queen?,"['Humphrey boggart' 'Stephen Bogart' 'Humphrey bogart' 'Humphry Bogart'
+ 'Humphrey DeForest Bogart' 'Tennis anyone' 'Bogart' 'Humphrey Bogart'
+ 'Humprey Bogart']",Humphrey Bogart,humphrey bogart,"['humphrey boggart', 'stephen bogart', 'humphrey bogart', 'humphry bogart', 'humphrey deforest bogart', 'tennis anyone', 'bogart', 'humphrey bogart', 'humprey bogart']"
+132,"Who wrote the novel Cry, the Beloved Country about South Africa?",['Alan Paton' 'Alan paton' 'Alan Stewart Paton'],Alan Paton,alan paton,"['alan paton', 'alan paton', 'alan stewart paton']"
+133,What is the capital of Kenya?,"['Nairobi Province, Kenya' 'KE-110' 'Nairobi, KE-110' 'Nyrobi'
+ 'Nairobi Municipality' 'Nairobi, Kenya' 'Safari Capital of the World'
+ 'Nairobi Province' 'Demographics of Nairobi' 'Capital of Kenya'
+ 'Nairobi Area' 'Citi Hoppa' 'Nairobi Area, Kenya' 'Nairobi']",Nairobi,nairobi,"['nairobi province kenya', 'ke110', 'nairobi ke110', 'nyrobi', 'nairobi municipality', 'nairobi kenya', 'safari capital of the world', 'nairobi province', 'demographics of nairobi', 'capital of kenya', 'nairobi area', 'citi hoppa', 'nairobi area kenya', 'nairobi']"
+134,From which European country did Angola achieve independence in 1975?,"['Portogało' 'Republic of Portugal' 'PORTUGAL' 'Portekiz' 'Portugallu'
+ 'O Papagaio' 'ISO 3166-1:PT' 'Portunga' 'Phu-to-ga' 'Potigal' 'Portûnga'
+ 'Portugul' 'An Phortaingéil' 'Portugāle' 'Portugale' 'Portingale'
+ 'Potiti' 'Portugali' 'Portugall' 'Portekîz' 'Bo Dao Nha'
+ 'Portuguese Republic' 'Portogallo' 'Portugaul' 'Portogalo' 'Portyngal'
+ 'Yn Phortiugal' 'Portugalio' 'Portugál' 'Portugual' 'Portuga' 'Portgual'
+ 'Portugalsko' 'Portugaleje' 'Phû-tô-gâ' 'Portugalujo' 'Portugalija'
+ 'Pertual' 'Pòtigal' 'Portugal' 'Bồ Đào Nha' 'Portugalska'
+ 'República Portuguesa' 'Portiwgal' 'Portugalėjė' 'Portúgal' 'Portegal'
+ 'An Phortaingeil' 'Republica Portuguesa']",Portugal,portugal,"['portogało', 'republic of portugal', 'portugal', 'portekiz', 'portugallu', 'o papagaio', 'iso 31661pt', 'portunga', 'phutoga', 'potigal', 'portûnga', 'portugul', 'an phortaingéil', 'portugāle', 'portugale', 'portingale', 'potiti', 'portugali', 'portugall', 'portekîz', 'bo dao nha', 'portuguese republic', 'portogallo', 'portugaul', 'portogalo', 'portyngal', 'yn phortiugal', 'portugalio', 'portugál', 'portugual', 'portuga', 'portgual', 'portugalsko', 'portugaleje', 'phûtôgâ', 'portugalujo', 'portugalija', 'pertual', 'pòtigal', 'portugal', 'bồ đào nha', 'portugalska', 'república portuguesa', 'portiwgal', 'portugalėjė', 'portúgal', 'portegal', 'an phortaingeil', 'republica portuguesa']"
+135,Which country mainly makes up the Horn of Africa?,"['Somali National Salvation Committee' 'Somolia' 'Soomaaliya' 'Somaila'
+ 'Republic of Somalia' 'Somalia, Africa' 'The Independent Somali State'
+ 'ISO 3166-1:SO' 'الصومال' 'Coast of Somalia' 'Somalia' 'Somaliya'
+ 'Federal Republic of Somalia' 'As-Sumal']",Somalia,somalia,"['somali national salvation committee', 'somolia', 'soomaaliya', 'somaila', 'republic of somalia', 'somalia africa', 'the independent somali state', 'iso 31661so', 'الصومال', 'coast of somalia', 'somalia', 'somaliya', 'federal republic of somalia', 'assumal']"
+136,What is the capital of Sierra Leone?,"['Freetown Colony' 'Freetown' 'History of Freetown, Sierra Leone'
+ 'Free Town' 'Freetown settlement' 'Freetown, Sierra Leone'
+ 'Capital of Sierra Leone']",Freetown,freetown,"['freetown colony', 'freetown', 'history of freetown sierra leone', 'free town', 'freetown settlement', 'freetown sierra leone', 'capital of sierra leone']"
+137,Which country is the island of Zanzibar part of?,"['Tanzanian' 'United Republic of Tanzania' 'Tanzania, United Republic of'
+ 'Jamhuri ya Muungano wa Tanzania' 'Tanzania' 'Tansania' 'Tanzanie'
+ 'United Republic of Tanganyika and Zanzibar' 'ISO 3166-1:TZ'
+ 'Republic of Tanzania' 'Tanganyika and Zanzibar'
+ 'The United Republic of Tanzania' 'TNZ' 'Tanznia']",Tanzania,tanzania,"['tanzanian', 'united republic of tanzania', 'tanzania united republic of', 'jamhuri ya muungano wa tanzania', 'tanzania', 'tansania', 'tanzanie', 'united republic of tanganyika and zanzibar', 'iso 31661tz', 'republic of tanzania', 'tanganyika and zanzibar', 'the united republic of tanzania', 'tnz', 'tanznia']"
+138,What is Africa's largest country?,"['Sudan' 'Islamic Republic of Sudan' 'Sport in Sudan'
+ 'Government of the Sudan' 'The Sudan' 'Republic of Sudan'
+ 'Republic of North Sudan' 'Northern Sudan'
+ 'Environmental issues in Sudan' 'Sudan proper' 'North Sudan'
+ 'Environmental issues in sudan' 'As-Sūdān'
+ 'Administrative divisions of Sudan' 'ISO 3166-1:SD' 'جمهورية السودان'
+ 'Sudanese culture' 'As-Sudan' 'Republic of the Sudan' 'السودان'
+ 'Islamic Republic of the Sudan' 'Clothing in Sudan'
+ 'Official language of Southern Sudan' 'Sudanese' 'Environment of Sudan'
+ 'Culture of Sudan' 'Sudan Foundation']",Sudan,sudan,"['sudan', 'islamic republic of sudan', 'sport in sudan', 'government of the sudan', 'the sudan', 'republic of sudan', 'republic of north sudan', 'northern sudan', 'environmental issues in sudan', 'sudan proper', 'north sudan', 'environmental issues in sudan', 'assūdān', 'administrative divisions of sudan', 'iso 31661sd', 'جمهورية السودان', 'sudanese culture', 'assudan', 'republic of the sudan', 'السودان', 'islamic republic of the sudan', 'clothing in sudan', 'official language of southern sudan', 'sudanese', 'environment of sudan', 'culture of sudan', 'sudan foundation']"
+139,"Which African country is bordered by Benin, Ghana, Ivory Coast, Niger, and Mali?","['Bourkina-Fasso' 'Maximes, Thoughts and Riddles of the Mossi'
+ 'Burkina Fasso' 'Burkina' 'Bourkina Faso'
+ 'Maximes, pensées et devinettes mossi' 'Burkinabè' 'Berkina faso'
+ 'ISO 3166-1:BF' 'Burkina faso' 'Faso' 'Burkina Fasoan' 'Bourkina Fasso'
+ 'Burkinafaso' 'Burkino Faso' 'Burkina-Faso' 'Burkina Faso'
+ 'Burkina Fatso']",Burkino Faso,burkino faso,"['bourkinafasso', 'maximes thoughts and riddles of the mossi', 'burkina fasso', 'burkina', 'bourkina faso', 'maximes pensées et devinettes mossi', 'burkinabè', 'berkina faso', 'iso 31661bf', 'burkina faso', 'faso', 'burkina fasoan', 'bourkina fasso', 'burkinafaso', 'burkino faso', 'burkinafaso', 'burkina faso', 'burkina fatso']"
+140,Who was the woman sentenced to six years in jail after the murder of Stompei Seipi?,"['Nomzamo Winifred Zanyiwe Madikizela' 'Winnie Madikizela-Mandela'
+ 'Winnie Mandela' 'Nomzano Zaniewe' 'Winnie Nomzamo Mandela'
+ 'Nomzamo Winnie Mandela' 'Mandela, Winnie' 'Winnie Madikizela Mandela'
+ 'Winnie Madikizela' 'Winnifred Mandela']",Winnie Mandela,winnie mandela,"['nomzamo winifred zanyiwe madikizela', 'winnie madikizelamandela', 'winnie mandela', 'nomzano zaniewe', 'winnie nomzamo mandela', 'nomzamo winnie mandela', 'mandela winnie', 'winnie madikizela mandela', 'winnie madikizela', 'winnifred mandela']"
+141,In which country are the towns of Gweru and Kwekwe?,"['Zimbobwe' 'Health care in Zimbabwe' 'Zimbabwean cultural practices'
+ 'People of Zimbabwe' 'Republic of Zimbabwe' 'Zimbabwean legends'
+ 'Zimbabwae' 'Zimbabwian' 'Republic Of Zimbabwe' 'Cuisine of Zimbabwe'
+ 'Zimbabwean cuisine' 'ZWE' 'Zimbabwei' 'Zimbabwe' 'Etymology of Zimbabwe'
+ 'ISO 3166-1:ZW' 'Republic Zimbabwe' 'Zimbawean' 'Zimbabwean'
+ 'Name of Zimbabwe' 'Chimpabwe']",Zimbabwe,zimbabwe,"['zimbobwe', 'health care in zimbabwe', 'zimbabwean cultural practices', 'people of zimbabwe', 'republic of zimbabwe', 'zimbabwean legends', 'zimbabwae', 'zimbabwian', 'republic of zimbabwe', 'cuisine of zimbabwe', 'zimbabwean cuisine', 'zwe', 'zimbabwei', 'zimbabwe', 'etymology of zimbabwe', 'iso 31661zw', 'republic zimbabwe', 'zimbawean', 'zimbabwean', 'name of zimbabwe', 'chimpabwe']"
+142,Who was the founder of the Back to Africa movement who largely inspired Rastafarianism?,"['MARCUS GARVEY' 'Marcus Garvey Moziah Jr' 'Marcus Aurelius Garvey'
+ 'Marcus Garvey' 'Marcus Moziah Garvey' 'Marcus M. Garvey'
+ 'Marcus Mosiah Garvey' 'Marcus garvey' 'Marcus Garvy' 'Garveyan']",Marcus Garvey,marcus garvey,"['marcus garvey', 'marcus garvey moziah jr', 'marcus aurelius garvey', 'marcus garvey', 'marcus moziah garvey', 'marcus m garvey', 'marcus mosiah garvey', 'marcus garvey', 'marcus garvy', 'garveyan']"
+143,Which African country is sandwiched between Ghana and Benin?,"['Republic of Togo' 'BQG' 'ISO 3166-1:TG' 'Health care in Togo'
+ 'Health in Togo' 'République Togolaise' 'Togo' 'Republique Togolaise'
+ 'Togolese' 'Sport in Togo' 'Religion in Togo' 'Togolese Republic'
+ 'Administrative divisions of Togo']",Togo,togo,"['republic of togo', 'bqg', 'iso 31661tg', 'health care in togo', 'health in togo', 'république togolaise', 'togo', 'republique togolaise', 'togolese', 'sport in togo', 'religion in togo', 'togolese republic', 'administrative divisions of togo']"
+144,The Zambesi and which other river define the borders of Matabeleland?,"['Northern Province, South Africa' 'Limpopo Province'
+ 'Limpopo (South African province)' 'Northern Province (South Africa)'
+ 'Limpopo' 'Northern Transvaal' 'Limpopo province']",Limpopo,limpopo,"['northern province south africa', 'limpopo province', 'limpopo south african province', 'northern province south africa', 'limpopo', 'northern transvaal', 'limpopo province']"
+145,In which mountains are Camp David?,['Appalachian' 'Appalachian (disambiguation)'],Appalachian,appalachian,"['appalachian', 'appalachian disambiguation']"
+146,"""Which song say, """"The words of the prophet are written on the subway walls?""""""","['The Sounds of Silence (song)' 'The Sound Of Silence' 'Sound of Silence'
+ 'The Sound of Silence' 'En ton av tystnad' 'The Sounds of Silence'
+ 'Hello Darkness My old Friend']",Sound of Silence,sound of silence,"['the sounds of silence song', 'the sound of silence', 'sound of silence', 'the sound of silence', 'en ton av tystnad', 'the sounds of silence', 'hello darkness my old friend']"
+147,Who sang the title song for the Bond film A View To A Kill?,"['Duran duran' 'Sphere Studios' 'Careless Memory' 'Duran Duran'
+ 'Duranduran' 'DUran Duran']",Duran Duran,duran duran,"['duran duran', 'sphere studios', 'careless memory', 'duran duran', 'duranduran', 'duran duran']"
+148,In which country did General Jaruzelski impose marital law in 1981?,"['Etymology of Poland' 'Polish state' 'Poleand' 'Rzeczpospolita Polska'
+ 'Polland' 'ISO 3166-1:PL' 'Polskor' 'Republic of Poland' 'POLAND'
+ 'Fourth Poland' 'Country- Poland' 'Poleland' 'Polska' 'Poland' 'Poland.'
+ 'Pols Land' 'Polnd' 'Po land' 'Lenkija' 'Bastarnia' 'Pologne' 'PolanD'
+ 'Polija' 'Pole land' 'Architecture of Poland' 'Ploand']",Poland,poland,"['etymology of poland', 'polish state', 'poleand', 'rzeczpospolita polska', 'polland', 'iso 31661pl', 'polskor', 'republic of poland', 'poland', 'fourth poland', 'country poland', 'poleland', 'polska', 'poland', 'poland', 'pols land', 'polnd', 'po land', 'lenkija', 'bastarnia', 'pologne', 'poland', 'polija', 'pole land', 'architecture of poland', 'ploand']"
+149,Who won the Oscar for directing It Happened One Night?,"['Frank Capra' 'Francesco Rosario Capra'
+ 'The American Film Institute Salute to Frank Capra'
+ 'The american film institute salute to frank capra' 'Capraesque'
+ 'Francesco Capra' 'Lou Capra' 'Frank R. Capra']",Frank Capra,frank capra,"['frank capra', 'francesco rosario capra', 'the american film institute salute to frank capra', 'the american film institute salute to frank capra', 'capraesque', 'francesco capra', 'lou capra', 'frank r capra']"
+150,Hellenikon international airport is in which country?,"['Yunanistan' 'Griekenland' 'Hellenic republic' 'Elláda' 'Graecia'
+ 'The Hellenic Republic' 'Ελλάς' 'Eládha' 'Yananistan'
+ 'Republic of Greece' 'Elliniki Dimokratía' 'Picki u dusa'
+ 'République hellénique' 'Social issues in Greece' 'Hellas'
+ 'Hellenic Republic' 'Republique hellenique' 'Eladha' 'Ελλάδα' 'Grèce'
+ 'Elliniki Dimokratia' 'Greece' 'Temporary Government of National Defence'
+ 'Griechenland' 'Grcija' 'Ellada' 'Hellada' 'Greek Republic' 'Grece'
+ 'Ελληνική Δημοκρατία' 'Grcka' 'Political history of Greece'
+ 'Ellīnikī́ Dīmokratía' 'Macedonian Greece' 'History of North Greece'
+ 'ISO 3166-1:GR' 'Grecce' 'Elás' 'Hellás' 'Ελλας'
+ 'Greek law (Hellenic Republic)']",Greece,greece,"['yunanistan', 'griekenland', 'hellenic republic', 'elláda', 'graecia', 'the hellenic republic', 'ελλάς', 'eládha', 'yananistan', 'republic of greece', 'elliniki dimokratía', 'picki u dusa', 'république hellénique', 'social issues in greece', 'hellas', 'hellenic republic', 'republique hellenique', 'eladha', 'ελλάδα', 'grèce', 'elliniki dimokratia', 'greece', 'temporary government of national defence', 'griechenland', 'grcija', 'ellada', 'hellada', 'greek republic', 'grece', 'ελληνική δημοκρατία', 'grcka', 'political history of greece', 'ellīnikī dīmokratía', 'macedonian greece', 'history of north greece', 'iso 31661gr', 'grecce', 'elás', 'hellás', 'ελλας', 'greek law hellenic republic']"
+151,Who had a 60s No 1 with Lightnin' Strikes?,"['Luigi A.G. Sacco' 'Luigi Giovanni Sacco' 'Luigi Alfredo Giovanni Sacco'
+ 'Luigi Alfredo Sacco' 'Luigi A. G. Sacco' 'Lou Christie']",Lou Christie,lou christie,"['luigi ag sacco', 'luigi giovanni sacco', 'luigi alfredo giovanni sacco', 'luigi alfredo sacco', 'luigi a g sacco', 'lou christie']"
+152,In which year was CNN founded?,"['one thousand, nine hundred and eighty' '1980']",1980,1980,"['one thousand nine hundred and eighty', '1980']"
+153,Who was President Reagan's Secretary for Defense from 1987 to 1989?,"['Frank Charles Carlucci' 'Frank Charles Carlucci, III' 'Frank Carlucci'
+ 'Frank Carlucci III' 'Frank C. Carlucci' 'Frank C. Carlucci III'
+ 'Frank Charles Carlucci III']",Frank Carlucci,frank carlucci,"['frank charles carlucci', 'frank charles carlucci iii', 'frank carlucci', 'frank carlucci iii', 'frank c carlucci', 'frank c carlucci iii', 'frank charles carlucci iii']"
+154,Which famous brother of Talia Shire does not share her last name?,"['Ford coppola' 'Coppola, Francis Ford' 'Ff coppola' 'Francis Coppola'
+ 'Francis Ford Coppola filmography' 'Godfather of Wine'
+ 'Francis Ford Coppola' 'List of Francis Ford Coppola films']",Francis Ford Coppola,francis ford coppola,"['ford coppola', 'coppola francis ford', 'ff coppola', 'francis coppola', 'francis ford coppola filmography', 'godfather of wine', 'francis ford coppola', 'list of francis ford coppola films']"
+155,In basketball where do the Celtics come from?,"['City of Boston' 'Boston,MA' 'Economy of Boston' 'Boston, Massachussets'
+ ""Boston's"" 'Boston, ma' 'Boston, Massachusets' 'Boston Massachusetts'
+ 'Boston, United States' 'Wahstoronòn:ke' 'Boston, Massachusetts, USA'
+ 'Boston Mass' 'Boston, Massachessets' 'Boston, Massachussetts'
+ 'Boston, Massachusetts, US' 'Bosotn' 'The weather in Boston'
+ 'Boston,Massachusetts' 'Boston, Mass' 'Boston, Massachusettes'
+ 'Boston, Massachussettes' 'Boston, Massachusetts'
+ 'The hub of the universe' 'Boston mass' 'Boston massachusetts'
+ 'Boston Weather' 'Beantown' 'Bofton' 'Boston, USA' 'Boston, mass'
+ 'Education in Boston' 'Boston ma' 'Boston, MA' 'Boston, US'
+ 'Boston (Mass.)' 'Boston MA' 'Demographics of Boston'
+ 'Geography of Boston' 'Religion in Boston' 'Boston (MA)'
+ 'Capital of Massachusetts' 'Puritan City'
+ 'Boston, Massachusetts, United States of America' 'Politics of Boston'
+ 'Boston' 'Boston, Mass.' 'The Hub of the Universe'
+ 'Boston, Massachusetts, United States' 'Bean Town' 'Bawstun'
+ 'UN/LOCODE:USBOS' 'Massachusetts/Boston']",Boston,boston,"['city of boston', 'bostonma', 'economy of boston', 'boston massachussets', 'bostons', 'boston ma', 'boston massachusets', 'boston massachusetts', 'boston united states', 'wahstoronònke', 'boston massachusetts usa', 'boston mass', 'boston massachessets', 'boston massachussetts', 'boston massachusetts us', 'bosotn', 'the weather in boston', 'bostonmassachusetts', 'boston mass', 'boston massachusettes', 'boston massachussettes', 'boston massachusetts', 'the hub of the universe', 'boston mass', 'boston massachusetts', 'boston weather', 'beantown', 'bofton', 'boston usa', 'boston mass', 'education in boston', 'boston ma', 'boston ma', 'boston us', 'boston mass', 'boston ma', 'demographics of boston', 'geography of boston', 'religion in boston', 'boston ma', 'capital of massachusetts', 'puritan city', 'boston massachusetts united states of america', 'politics of boston', 'boston', 'boston mass', 'the hub of the universe', 'boston massachusetts united states', 'bean town', 'bawstun', 'unlocodeusbos', 'massachusettsboston']"
+156,Which Disney film had the theme tune A Whole New World?,"[""'Ala' ad Din"" ""'Ala' ad-Din"" 'Alad-Din' 'Aladdin' ""'Ala' addin"" 'アラジン'
+ ""Aladdin's lamp"" 'Alladdin' 'Ali ibn ad-Din' 'Ala addin' 'Alaad Din'
+ 'Alad Din' 'علاء الدين' 'ʻAlāʼ ad-Dīn' 'Ala ad-Din' 'Alaaddin'
+ 'Aladdin and the magic lamp' 'Arajin' 'Alaad-Din'
+ 'Aladdin and the Magic Lamp' ""'Ala addin""]",Aladdin,aladdin,"['ala ad din', 'ala addin', 'aladdin', 'aladdin', 'ala addin', 'アラジン', 'aladdins lamp', 'alladdin', 'ali ibn addin', 'ala addin', 'alaad din', 'alad din', 'علاء الدين', 'ʻalāʼ addīn', 'ala addin', 'alaaddin', 'aladdin and the magic lamp', 'arajin', 'alaaddin', 'aladdin and the magic lamp', 'ala addin']"
+157,What does MG sand for in Booker T & The MG's?,"['Memphis style' 'Memphis design' 'Memphis Style' 'Memphis movement'
+ 'Memphis Group' 'Memphis (design group)']",Memphis Group,memphis group,"['memphis style', 'memphis design', 'memphis style', 'memphis movement', 'memphis group', 'memphis design group']"
+158,Florence Ballard was a member of which girl group?,"['Diana Ross and the Supremes' 'Diana Ross & The Supremes'
+ 'Diana Ross and The Supremes' 'The Supremes Sing Disney Classics'
+ ""The Supremes at the Copa '67"" 'The Supremes'
+ 'Diana Ross And The Supremes' 'Supremes' 'The Primettes'
+ 'Diana ross and the supremes' 'Primettes' 'The supremes'
+ 'Diana Ross & the Supremes']",Supremes,supremes,"['diana ross and the supremes', 'diana ross  the supremes', 'diana ross and the supremes', 'the supremes sing disney classics', 'the supremes at the copa 67', 'the supremes', 'diana ross and the supremes', 'supremes', 'the primettes', 'diana ross and the supremes', 'primettes', 'the supremes', 'diana ross  the supremes']"
+159,"Who was born first, Susan Sarandon or Glenn Close?",['Susan Abigail Sarandon' 'Susan Abigail Tomalin' 'Susan Sarandon'],Susan Sarandon,susan sarandon,"['susan abigail sarandon', 'susan abigail tomalin', 'susan sarandon']"
+160,Who wrote the novel The Go Between?,"['L P Hartley' 'L. P. Hartley' 'Leslie Hartley' 'L.P. Hartley'
+ 'The past is a foreign country' 'Leslie Poles Hartley' 'LP Hartley']",L. P. Hartley,l p hartley,"['l p hartley', 'l p hartley', 'leslie hartley', 'lp hartley', 'the past is a foreign country', 'leslie poles hartley', 'lp hartley']"
+161,In which musical do the sweeps sing Chim Chim Cheree?,"['Mrs. George Banks' 'Winifred banks' '17 Cherry Tree Lane'
+ 'Bert (Mary Poppins)' 'Mr. George Banks' 'Mr George Banks' 'Mary popins'
+ 'Mrs George Banks' 'Marry Poppins' 'Mrs Winifred Banks' 'Mary Poppins'
+ 'Mrs. Winifred Banks' 'Mary poppins' 'Winifred Banks']",Mary Poppins,mary poppins,"['mrs george banks', 'winifred banks', '17 cherry tree lane', 'bert mary poppins', 'mr george banks', 'mr george banks', 'mary popins', 'mrs george banks', 'marry poppins', 'mrs winifred banks', 'mary poppins', 'mrs winifred banks', 'mary poppins', 'winifred banks']"
+162,Who had a big 60s No 1 with Tossin' and Turnin'?,['Bobby Lewis'],Bobby Lewis,bobby lewis,['bobby lewis']
+163,Sam Phillips was owner of which legendary recording studio?,"['Structure of the Sun' 'Sun' 'Orbit of the sun' 'Solar X-ray astronomy'
+ 'Internal structure of the Sun' '🌞' 'The Sun' 'Solarian' 'Solar glare'
+ 'Layers of the Sun' 'Solar photosphere' 'Solar atmosphere'
+ 'Solar magnetic field' 'Sun (astronomy)' 'Sun gravity' 'Sunlike'
+ 'The sun' 'Atmosphere of the Sun' 'Exploration of the Sun' 'Sun (song)'
+ ""Sun's orbit"" 'Local Star' 'Sun characteristics' 'Sol (star)'
+ 'Sun (star)' 'Solar diameter' 'Orbit of the Sun' 'Local star'
+ ""Earth's sun"" 'Heliology' 'Watch sun directly' 'Parts of the sun']",Sun,sun,"['structure of the sun', 'sun', 'orbit of the sun', 'solar xray astronomy', 'internal structure of the sun', '', 'the sun', 'solarian', 'solar glare', 'layers of the sun', 'solar photosphere', 'solar atmosphere', 'solar magnetic field', 'sun astronomy', 'sun gravity', 'sunlike', 'the sun', 'atmosphere of the sun', 'exploration of the sun', 'sun song', 'suns orbit', 'local star', 'sun characteristics', 'sol star', 'sun star', 'solar diameter', 'orbit of the sun', 'local star', 'earths sun', 'heliology', 'watch sun directly', 'parts of the sun']"
+164,Which actor played Maxwell Smart?,"['Adams, Don' 'Don Adams (Actor)' 'Don Adams' 'Donald James Yarmy'
+ 'Donald Yarmy' 'Missed it by that much']",Don Adams,don adams,"['adams don', 'don adams actor', 'don adams', 'donald james yarmy', 'donald yarmy', 'missed it by that much']"
+165,On a computer keyboard which letter on the same line is between C and B?,['History of V' '🆅' 'V (letter)' 'Ⓥ' 'Ｖ' '⒱' 'ⓥ' '🄥' '🅥' 'V' '🅅'],V,v,"['history of v', '', 'v letter', '', 'ｖ', '', '', '', '', 'v', '']"
+166,Lunar 10's Lunar Excursion Module was named after which famous character?,['Snoopie' 'Snoopy dog' 'Daisy Hill Puppy Farm' 'Snoopy'],Snoopy,snoopy,"['snoopie', 'snoopy dog', 'daisy hill puppy farm', 'snoopy']"
+167,In which decade did golfer Gary Player last win the British Open?,"['1970s (decade)' ""The '70s"" ""1970's"" '1970–1979' 'Seventies' '1974-1975'
+ '1970s' '‘70s' 'The Seventies' 'Nineteen-seventies' 'Nineteen seventies'
+ ""'70s"" '1973-1974' ""'70's"" ""70's"" '1970’s' '70s' '1970-1979']",70s,70s,"['1970s decade', 'the 70s', '1970s', '19701979', 'seventies', '19741975', '1970s', '70s', 'the seventies', 'nineteenseventies', 'nineteen seventies', '70s', '19731974', '70s', '70s', '1970s', '70s', '19701979']"
+168,Sarah FitzGerald has been a 90s world champion in which sport?,['Squash (disambiguation)' 'Squash' 'Squashes'],Squash,squash,"['squash disambiguation', 'squash', 'squashes']"
+169,Where was the peace treaty signed that brought World War I to an end?,"['Palais de Versailles' 'Palace of versailles'
+ 'Musee national du chateau de Versailles et des Trianons'
+ 'Palace and Park of Versailles' 'Chateau of Versailles' 'Versailles'
+ 'Museum of the History of France, Versailles' 'City of Versailles'
+ 'Palace of Versailles' 'Musée de Versailles'
+ 'Musée national du Château de Versailles' 'Versailles Castle'
+ 'Musée d’Histoire de France' 'Palais Versailles' 'Château de Versailles'
+ 'Residence of Versailles' 'Schloss Versailles'
+ 'Musée national du château de Versailles et des Trianons'
+ 'Versailles Museum' 'Galerie de Versailles' 'Chateau de Versailles'
+ 'Château of Versailles' 'PalaceofVersailles'
+ 'Musée national du château et des Trianons' ""Musée d'Histoire de France""
+ 'Chateau Versailles' 'Versailles Palace' 'The Palace of Versailles'
+ 'Musée historique de Versailles']",Versailles,versailles,"['palais de versailles', 'palace of versailles', 'musee national du chateau de versailles et des trianons', 'palace and park of versailles', 'chateau of versailles', 'versailles', 'museum of the history of france versailles', 'city of versailles', 'palace of versailles', 'musée de versailles', 'musée national du château de versailles', 'versailles castle', 'musée dhistoire de france', 'palais versailles', 'château de versailles', 'residence of versailles', 'schloss versailles', 'musée national du château de versailles et des trianons', 'versailles museum', 'galerie de versailles', 'chateau de versailles', 'château of versailles', 'palaceofversailles', 'musée national du château et des trianons', 'musée dhistoire de france', 'chateau versailles', 'versailles palace', 'the palace of versailles', 'musée historique de versailles']"
+170,Which Welsh singer was invited to sing at the White House on Millennium Eve?,"['Jones, Tom' 'Tom Jones (opera)' 'Tom Jones (footballer)'
+ 'Tom Jones (Australian footballer)' 'Tom Jones (film)' 'Tom jones (film)'
+ 'Tom jones' 'Tom Jones!' 'Tom Jones (disambiguation)' 'Tom Jones (Opera)'
+ 'Tom Jones' 'Tom Jones (movie)']",Tom Jones,tom jones,"['jones tom', 'tom jones opera', 'tom jones footballer', 'tom jones australian footballer', 'tom jones film', 'tom jones film', 'tom jones', 'tom jones', 'tom jones disambiguation', 'tom jones opera', 'tom jones', 'tom jones movie']"
+171,Which company was responsible for the oil spill in Alaska in 1989?,"['Standard Oil New Jersey' 'Exxon Company' 'Exxon' 'Jersey Standard'
+ 'EXXon' 'Exxon Research and Engineering Company' 'Esso Petroleum'
+ 'Standard Oil Company of New Jersey' 'Exxon Company USA']",Exxon,exxon,"['standard oil new jersey', 'exxon company', 'exxon', 'jersey standard', 'exxon', 'exxon research and engineering company', 'esso petroleum', 'standard oil company of new jersey', 'exxon company usa']"
+172,What date is Father's Day?,['3rd Sunday in June'],3rd Sunday in June,3rd sunday in june,['3rd sunday in june']
+173,In which decade of the 20th century was the FBI set up?,"['1900s' '1900s (disambiguation)' ""1900's"" 'Nineteen-hundreds']",1900s,1900s,"['1900s', '1900s disambiguation', '1900s', 'nineteenhundreds']"
+174,In which decade of the 20th century was Dan Aykroyd born?,"['The Fifties' '1950s' '1950-1959' ""50's"" '1950’s' '50s' '1950–1959'
+ 'Nineteen-fifties' '1950s (decade)' '1950ies' ""1950's"" ""'50s"" '195%3F'
+ 'Fifties']",50s,50s,"['the fifties', '1950s', '19501959', '50s', '1950s', '50s', '19501959', 'nineteenfifties', '1950s decade', '1950ies', '1950s', '50s', '1953f', 'fifties']"
+175,Which American wrote The Game of Chess in 1959?,"['Bobby Fischer (Chess career)' ""Fisher's endgame"" 'Bob Fischer'
+ 'Bobby Fischer' 'Bobby Fischer (chess career)' 'Robert James Fischer'
+ 'Bobby Fischer (biography)' 'Bobbie fischer' 'Regina Wender'
+ 'Bobby fischer' 'Robert J Fischer' 'Bobby Ficsher' 'Bobbie Fisher'
+ ""Fischer's endgame"" 'Bobby Fisher' 'Robert J. Fischer']",Bobby Fischer,bobby fischer,"['bobby fischer chess career', 'fishers endgame', 'bob fischer', 'bobby fischer', 'bobby fischer chess career', 'robert james fischer', 'bobby fischer biography', 'bobbie fischer', 'regina wender', 'bobby fischer', 'robert j fischer', 'bobby ficsher', 'bobbie fisher', 'fischers endgame', 'bobby fisher', 'robert j fischer']"
+176,Which leader did Hitler meet in the Brenner Pass in WWII?,"['Moussolini' 'Mouselinni' 'Musilini' 'Benito Musilini'
+ 'Benito Mussellini' 'Benito Muselini' 'Mussilini' 'Benito Musellini'
+ 'Musollini' 'Benito Moosillini' 'Benito Moosilini' 'Mussolinian'
+ 'Moosillini' 'Mussolinism' 'Mussellini' 'Benito Mussalini' 'Mussollini'
+ 'Mouselini' 'Benito Mussollini' 'Benito Amilcare Andrea Mussolini'
+ 'Musselini' 'Moosolini' 'Muselini' 'Mussalini' 'Benito Moosellini'
+ 'Benito Mussilini' 'Benito Musselini' 'Benito Musollini'
+ 'Benito Mussolini' 'Benito mussolini' 'Moosilini' 'Musillini' 'Mussloini'
+ 'Moosellini' 'Benito Moosolini' 'Benito Mooselini'
+ 'Benito Amilcare Mussolini' 'Moosollini' 'Mussillini' 'Benito Musolini'
+ 'Benito Andrea Mussolini' 'Benito Musillini' 'Musellini'
+ 'Benny Mussolini' 'Benito Mussillini' 'Mooselini' 'Benito Moosollini'
+ 'Musolini' 'Mussolini, Benito' 'Mussolini'
+ ""Benito Mussolini's religious beliefs""]",Mussolini,mussolini,"['moussolini', 'mouselinni', 'musilini', 'benito musilini', 'benito mussellini', 'benito muselini', 'mussilini', 'benito musellini', 'musollini', 'benito moosillini', 'benito moosilini', 'mussolinian', 'moosillini', 'mussolinism', 'mussellini', 'benito mussalini', 'mussollini', 'mouselini', 'benito mussollini', 'benito amilcare andrea mussolini', 'musselini', 'moosolini', 'muselini', 'mussalini', 'benito moosellini', 'benito mussilini', 'benito musselini', 'benito musollini', 'benito mussolini', 'benito mussolini', 'moosilini', 'musillini', 'mussloini', 'moosellini', 'benito moosolini', 'benito mooselini', 'benito amilcare mussolini', 'moosollini', 'mussillini', 'benito musolini', 'benito andrea mussolini', 'benito musillini', 'musellini', 'benny mussolini', 'benito mussillini', 'mooselini', 'benito moosollini', 'musolini', 'mussolini benito', 'mussolini', 'benito mussolinis religious beliefs']"
+177,Which company first manufactured the electric toothbrush?,"['Bristol Myers-Squibb' 'Bristl-Myers Squibb' 'Bristol-Myers Squib'
+ 'Bristol-Meyers' 'E. R. Squibb and Sons' 'Bristol Myers Squibb'
+ 'Bristol–Myers Squibb' 'Bristol-Myers Squibb Company'
+ 'Bristol-Myers Squibb Epsilon Holdings' 'Bristol Myers' 'BMY'
+ 'Bristol-Myers' 'Bristol Myer Squib' 'Bristol Myers Squib'
+ 'E. R. Squibb & Sons' 'Bristol-Myers Corporation' 'Bristol Meyers-Squibb'
+ 'Bristol-Myers Squibb HIV' 'Bristol-Myers-Squibb' 'Squibb'
+ 'Bristol-Myers Corp.' 'Bristol Meyers Squibb' 'Bristol Myers Squibb Co.'
+ 'The Bristol-Myers Squibb Company'
+ 'Squibb Institute for Medical Research'
+ 'Bristol-Myers Squibb Luxembourg Sarl' 'Bristol-Myers Squibb'
+ 'Bristol-Myers Squibb Pharmaceutical Research Institute']",Squibb,squibb,"['bristol myerssquibb', 'bristlmyers squibb', 'bristolmyers squib', 'bristolmeyers', 'e r squibb and sons', 'bristol myers squibb', 'bristolmyers squibb', 'bristolmyers squibb company', 'bristolmyers squibb epsilon holdings', 'bristol myers', 'bmy', 'bristolmyers', 'bristol myer squib', 'bristol myers squib', 'e r squibb  sons', 'bristolmyers corporation', 'bristol meyerssquibb', 'bristolmyers squibb hiv', 'bristolmyerssquibb', 'squibb', 'bristolmyers corp', 'bristol meyers squibb', 'bristol myers squibb co', 'the bristolmyers squibb company', 'squibb institute for medical research', 'bristolmyers squibb luxembourg sarl', 'bristolmyers squibb', 'bristolmyers squibb pharmaceutical research institute']"
+178,Who lived under the pseudonym of Harriet Brown in New York form the 40s to the 90s?,"['Garbo speaks' 'Mona Gabor' 'Garboesque' 'Greta Gustafson' 'Garbo, Greta'
+ 'Garbo Speaks' 'Greta Garbo' 'Greta Louisa Gustafsson'
+ 'Greta Lovisa Gustafsson' 'Greta Garbo filmography' 'Greta Gustafsson']",Greta Garbo,greta garbo,"['garbo speaks', 'mona gabor', 'garboesque', 'greta gustafson', 'garbo greta', 'garbo speaks', 'greta garbo', 'greta louisa gustafsson', 'greta lovisa gustafsson', 'greta garbo filmography', 'greta gustafsson']"
+179,Which actor bought the island of Tetiaroa?,"['Marlon Brando Jr.' 'Marlon brando' 'Marlon Brando Jr' 'Marlin Brando'
+ 'Marlon Brando, Jr.' 'Brandoesque' 'Marlon Brando' 'Brando family']",Marlon Brando,marlon brando,"['marlon brando jr', 'marlon brando', 'marlon brando jr', 'marlin brando', 'marlon brando jr', 'brandoesque', 'marlon brando', 'brando family']"
+180,"Between 1952 and 1954 did the number of TV stations in the USA double, triple or quadruple?",['Thricefold' 'Triple (disambiguation)' 'Triples' 'Triple'],Triple,triple,"['thricefold', 'triple disambiguation', 'triples', 'triple']"
+181,What was Wham!'s first No 1?,['Wake Me Up Before You Go-Go' 'Wake Me Up Before You Go Go'],Wake Me Up Before You Go Go,wake me up before you go go,"['wake me up before you gogo', 'wake me up before you go go']"
+182,Which musical featured the song You'll Never Walk Alone?,"['Carousels' '🎠' 'Merry-go-round' 'Loof' 'Marry Go Round' 'Merry-Go-Round'
+ 'Merry Go Round' 'Merry go round' 'Merry-go-Round' 'Merrygoround'
+ 'Carousel' 'Carrousel']",Carousel,carousel,"['carousels', '', 'merrygoround', 'loof', 'marry go round', 'merrygoround', 'merry go round', 'merry go round', 'merrygoround', 'merrygoround', 'carousel', 'carrousel']"
+183,In which year was Bloody Sunday in Londonderry?,"['one thousand, nine hundred and seventy-two' '1972']",1972,1972,"['one thousand nine hundred and seventytwo', '1972']"
+184,The first untethered space walk took place from which space craft?,"['Challenger' 'Challengers' 'Challengers (disambiguation)'
+ 'Challenger (album)' 'Challenger (disambiguation)']",Challenger,challenger,"['challenger', 'challengers', 'challengers disambiguation', 'challenger album', 'challenger disambiguation']"
+185,What was the main color of a Storm trooper in Star Wars?,"['White (Colour)' 'Rgb(255, 255, 255)' 'White' 'Whitishness' 'Whiter'
+ '(255, 255, 255)' 'Whitishly' 'White (political adjective)' 'White-'
+ 'White-Finn' 'Whitest' 'FFFFFF' 'Color/white' 'Man on a white horse']",White,white,"['white colour', 'rgb255 255 255', 'white', 'whitishness', 'whiter', '255 255 255', 'whitishly', 'white political adjective', 'white', 'whitefinn', 'whitest', 'ffffff', 'colorwhite', 'man on a white horse']"
+186,Richard Nixon was Vice President to which US state?,"['Eisenhower Dwight' 'Health issues of Dwight D. Eisenhower'
+ 'D. D. Eisenhower' 'Dynamic Conservatism' 'General Dwight Eisenhower'
+ 'David Jacob Eisenhower' 'Dweight Eisenhower'
+ '34th President of the United States' 'Dwight E Eisenhower' 'Eisehower'
+ 'President Dwight D. Eisenhower' 'David Dwight Eisenhower'
+ 'Ike (nickname)' 'Eisenhower' 'Eishenhower'
+ 'General Dwight David Eisenhower' 'Dwight D. Eisenhower'
+ 'President Eisenhower' 'Ike Eisenhower' 'Dwight Eisenhower'
+ 'D. Eisenhower' 'General Eisenhower' 'David D. Eisenhower'
+ 'President Dwight Eisenhower' 'Dwight eisenhower' 'Dwight Eisenhour'
+ 'Dwight Eisienhower' 'Dwight Eisenhauer' 'Dwight David Eisenhower'
+ 'Dwight D Eisenhower' 'General of the Army Dwight Eisenhower']",Dwight Eisenhower,dwight eisenhower,"['eisenhower dwight', 'health issues of dwight d eisenhower', 'd d eisenhower', 'dynamic conservatism', 'general dwight eisenhower', 'david jacob eisenhower', 'dweight eisenhower', '34th president of the united states', 'dwight e eisenhower', 'eisehower', 'president dwight d eisenhower', 'david dwight eisenhower', 'ike nickname', 'eisenhower', 'eishenhower', 'general dwight david eisenhower', 'dwight d eisenhower', 'president eisenhower', 'ike eisenhower', 'dwight eisenhower', 'd eisenhower', 'general eisenhower', 'david d eisenhower', 'president dwight eisenhower', 'dwight eisenhower', 'dwight eisenhour', 'dwight eisienhower', 'dwight eisenhauer', 'dwight david eisenhower', 'dwight d eisenhower', 'general of the army dwight eisenhower']"
+187,Luxor international airport is in which country?,"['EGY' 'Arab Republic of Egypt' 'A .R . EGYPT'
+ 'The Arab Republic of Egypt' 'Eygpt' 'Etymology of Egypt' 'مصر' 'Kemmet'
+ 'Gift of the Nile' 'Arab Republic Of Egypt' 'Names of Egypt' 'Miṣr'
+ 'A .R . Egypt' 'Eytp' 'National identity of Egyptians'
+ ""Jumhuriyat Misr al'Arabiyah"" 'Eypt' 'Egyptian Republic' 'Ejipt'
+ 'Name of Egypt' 'Egipto' 'Kimet' 'جمهوريّة مصرالعربيّة' 'Egypte'
+ 'Egypt (name)' 'Egypt' 'جمهورية مصرالعربية' 'A.R. Egypt'
+ 'Republic of Eygpt' 'Égypte' 'Second Egyptian Republic' 'Egipt'
+ 'ISO 3166-1:EG' 'Egypt info']",Egypt,egypt,"['egy', 'arab republic of egypt', 'a r  egypt', 'the arab republic of egypt', 'eygpt', 'etymology of egypt', 'مصر', 'kemmet', 'gift of the nile', 'arab republic of egypt', 'names of egypt', 'miṣr', 'a r  egypt', 'eytp', 'national identity of egyptians', 'jumhuriyat misr alarabiyah', 'eypt', 'egyptian republic', 'ejipt', 'name of egypt', 'egipto', 'kimet', 'جمهورية مصرالعربية', 'egypte', 'egypt name', 'egypt', 'جمهورية مصرالعربية', 'ar egypt', 'republic of eygpt', 'égypte', 'second egyptian republic', 'egipt', 'iso 31661eg', 'egypt info']"
+188,Which country did Albert Einstein move to as the Nazis rose to power?,"['The United States of America' 'United States Of Amerca' 'Us of a'
+ 'U.–S.–A.' 'Americaland' 'United States (U.S.A.)' 'Amurika'
+ 'Unite states of america' 'United States of America (redirect)'
+ 'The U S A' 'Unietd States' 'EE UU' 'The U.S.A.' 'U.-S.-A.' 'Usa'
+ 'United Staets of America' 'Unites States' ""États-Unis d'Amérique""
+ 'Verenigde State' 'U.–S.' 'The United States of America.' 'The U-S-A'
+ 'EEUU' 'U. S. A.' 'Nagkaisang mga Estado' 'The U. S. of America'
+ 'The USA' 'America (United States)' 'The U. S. A.' 'U S of America'
+ 'UNITED STATES' 'Estados Unidos' 'The U–S' 'American United States'
+ 'US and A' 'Unitd states' 'The US of A' 'EE.UU.' 'U-S' 'The U-S'
+ 'Etymology of the United States' 'U.S.A.)' 'EE. UU.'
+ 'United states of america' 'US of america' 'Verenigde State van Amerika'
+ 'Nited States' 'United-States' 'Unite States' 'Estados Unidos de América'
+ 'UnitedStates' 'Estaos Unios' 'US of America' 'The Usa'
+ 'United states of America' 'Untied States of America'
+ 'The U S of America' 'THE AMERICAN UNITED STATES' 'The United-States'
+ 'U S A' 'AmericA' 'Estados Unidos de America' 'United states'
+ 'The U.S. of America' 'Amerka' 'United–States' 'U.s.a.'
+ 'United States of America' 'United State of America' 'United States (US)'
+ 'The U.S. of A' 'America' 'Amercia' ""Stati Uniti d'America""
+ 'Los Estados Unidos de America' 'United Stated' 'U.S.'
+ 'United States (of America)' 'United States' 'States of America'
+ 'America-class' 'Los Estados Unidos' 'U,S,' 'United States (country)'
+ 'Federal United States' 'ISO 3166-1:US' 'Untied States' 'The U.–S.–A.'
+ 'VS America' 'Amurica' ""Etats-Unis d'Amerique"" 'US' 'U.S. OF A' 'USofA'
+ 'Etats-Unis' 'U.S. of A' 'United States of America (U.S.A.)' 'Amarica'
+ 'The United States' 'U-S-A' 'United States/Introduction' 'The Us'
+ 'Unitesd states' 'The U S of A' 'America class' 'America magazine'
+ 'الولايات المتحدة الأمريكية' 'The U. S. of A' 'U S' '(USA)'
+ 'The United–States' 'United States (U.S.)' 'U.-S.'
+ 'United States of America (USA)' ""'merica"" 'The US'
+ 'United States of America.' 'UNited States' 'The U.S.' 'AMERICA'
+ 'United States of America/OldPage' 'United+States' 'The U S'
+ 'United Sates' 'THE UNITED STATES OF AMERICA' 'U–S–A'
+ 'United States Of America' 'U.S. of America' 'U–S'
+ 'Los Estados Unidos de América' 'The U.-S.' 'United sates'
+ 'The United States Of America' 'America (country)'
+ 'United States of American' 'United state of america' 'The U.–S.'
+ 'Amurka' 'U. S. of A' 'The U. S.' 'United States America' 'US of A'
+ 'États-Unis' 'USoA' 'USA' 'Estaos Uníos' 'America, United States of'
+ 'U. S. of America' 'U.S.American' '(US)' 'The U–S–A' 'U. S.'
+ 'U.S. America' 'U.S. A' 'Yankee land' 'America (US)' 'U.S'
+ 'America (United States of)' 'US (country)' 'UNITED STATES OF AMERICA'
+ 'U.S.A' 'Estados unidos' 'Americia' 'The US of america'
+ 'Vereinigte Staaten' 'US America' 'These United States of America'
+ 'VS Amerika' 'Name of the United States' 'The united states of america'
+ 'Estatos Unitos' 'America (USA)' 'The U.-S.-A.'
+ 'United States of America/Introduction' 'The US of America'
+ 'Americophile' 'V.S. America' 'U.S.A.' 'U S of A' 'V.S. Amerika'
+ 'United+States+of+America' 'The Unites States of America']",America,america,"['the united states of america', 'united states of amerca', 'us of a', 'usa', 'americaland', 'united states usa', 'amurika', 'unite states of america', 'united states of america redirect', 'the u s a', 'unietd states', 'ee uu', 'the usa', 'usa', 'usa', 'united staets of america', 'unites states', 'étatsunis damérique', 'verenigde state', 'us', 'the united states of america', 'the usa', 'eeuu', 'u s a', 'nagkaisang mga estado', 'the u s of america', 'the usa', 'america united states', 'the u s a', 'u s of america', 'united states', 'estados unidos', 'the us', 'american united states', 'us and a', 'unitd states', 'the us of a', 'eeuu', 'us', 'the us', 'etymology of the united states', 'usa', 'ee uu', 'united states of america', 'us of america', 'verenigde state van amerika', 'nited states', 'unitedstates', 'unite states', 'estados unidos de américa', 'unitedstates', 'estaos unios', 'us of america', 'the usa', 'united states of america', 'untied states of america', 'the u s of america', 'the american united states', 'the unitedstates', 'u s a', 'america', 'estados unidos de america', 'united states', 'the us of america', 'amerka', 'unitedstates', 'usa', 'united states of america', 'united state of america', 'united states us', 'the us of a', 'america', 'amercia', 'stati uniti damerica', 'los estados unidos de america', 'united stated', 'us', 'united states of america', 'united states', 'states of america', 'americaclass', 'los estados unidos', 'us', 'united states country', 'federal united states', 'iso 31661us', 'untied states', 'the usa', 'vs america', 'amurica', 'etatsunis damerique', 'us', 'us of a', 'usofa', 'etatsunis', 'us of a', 'united states of america usa', 'amarica', 'the united states', 'usa', 'united statesintroduction', 'the us', 'unitesd states', 'the u s of a', 'america class', 'america magazine', 'الولايات المتحدة الأمريكية', 'the u s of a', 'u s', 'usa', 'the unitedstates', 'united states us', 'us', 'united states of america usa', 'merica', 'the us', 'united states of america', 'united states', 'the us', 'america', 'united states of americaoldpage', 'unitedstates', 'the u s', 'united sates', 'the united states of america', 'usa', 'united states of america', 'us of america', 'us', 'los estados unidos de américa', 'the us', 'united sates', 'the united states of america', 'america country', 'united states of american', 'united state of america', 'the us', 'amurka', 'u s of a', 'the u s', 'united states america', 'us of a', 'étatsunis', 'usoa', 'usa', 'estaos uníos', 'america united states of', 'u s of america', 'usamerican', 'us', 'the usa', 'u s', 'us america', 'us a', 'yankee land', 'america us', 'us', 'america united states of', 'us country', 'united states of america', 'usa', 'estados unidos', 'americia', 'the us of america', 'vereinigte staaten', 'us america', 'these united states of america', 'vs amerika', 'name of the united states', 'the united states of america', 'estatos unitos', 'america usa', 'the usa', 'united states of americaintroduction', 'the us of america', 'americophile', 'vs america', 'usa', 'u s of a', 'vs amerika', 'unitedstatesofamerica', 'the unites states of america']"
+189,In the 90s how many points have been awarded for finishing first in a Grand Prix?,['10' 'ten'],10,10,"['10', 'ten']"
+190,Which lawyer made Raymond Burr famous?,"['Perry Mason (film)' 'Perry mason'
+ 'Perry Mason: The Case of the Defiant Daughter' 'Perry Mason']",Perry Mason,perry mason,"['perry mason film', 'perry mason', 'perry mason the case of the defiant daughter', 'perry mason']"
+191,Which broadcasting company did Edward J Noble found?,"['ABCs' 'ABC' 'A B C' 'A. B. C.' 'A.B.C.' 'ABC (channel)' 'Abc'
+ 'ABC (album)' 'ABC (TV)' 'ABC (disambiguation)' 'ABC (network)'
+ 'ABC (TV channel)' 'ABC (broadcasting)']",ABC,abc,"['abcs', 'abc', 'a b c', 'a b c', 'abc', 'abc channel', 'abc', 'abc album', 'abc tv', 'abc disambiguation', 'abc network', 'abc tv channel', 'abc broadcasting']"
+192,In which decade did the Jackson 5 sign to Motown?,"['Sixties Revolution' 'Turbulent Sixties' '1960s (decade)' ""The '60's""
+ ""60's"" '1960s in sports' ""1960's"" 'Nineteen sixties' 'The 60s' '1960s'
+ ""The '60s"" 'Sixties' ""The 60's"" 'Nineteen-sixties' '1960ies' '1960–1969'
+ '%6060s' ""'60s"" '1960-1969' '1960’s' 'The Sixties']",1960s,1960s,"['sixties revolution', 'turbulent sixties', '1960s decade', 'the 60s', '60s', '1960s in sports', '1960s', 'nineteen sixties', 'the 60s', '1960s', 'the 60s', 'sixties', 'the 60s', 'nineteensixties', '1960ies', '19601969', '6060s', '60s', '19601969', '1960s', 'the sixties']"
+193,How many vice presidents did Franklin D Roosevelt have?,['3' 'Three' 'three'],Three,three,"['3', 'three', 'three']"
+194,In which state is Harrah's Auto Collection situated?,"['Silver State' 'Nevada, United States' 'Sports in Nevada'
+ 'Geography of Nevada' 'US-NV' ""Nevada's Southern Boundary 1861-1867""
+ 'Transportation in Nevada' 'The Sagebrush State' 'NV (state)'
+ 'Education in Nevada' 'Religion in Nevada' 'Nevadian' '36th State'
+ 'The Battle Born State' 'Thirty-Sixth State' 'Nev.'
+ 'Demographics of Nevada' 'Navada' 'Nevada Annulment' 'Nevada, USA'
+ 'Climate of Nevada' 'Economy of Nevada' 'Thirty-sixth State'
+ 'State of Nevada' 'Politics of Nevada' 'Nevadan' 'Silver state'
+ 'Nevada (U.S. state)' 'The Silver State' 'Tikaboo Valley'
+ 'Nevada (state)' 'Battle Born State' 'Transport in Nevada' 'Nevada']",Nevada,nevada,"['silver state', 'nevada united states', 'sports in nevada', 'geography of nevada', 'usnv', 'nevadas southern boundary 18611867', 'transportation in nevada', 'the sagebrush state', 'nv state', 'education in nevada', 'religion in nevada', 'nevadian', '36th state', 'the battle born state', 'thirtysixth state', 'nev', 'demographics of nevada', 'navada', 'nevada annulment', 'nevada usa', 'climate of nevada', 'economy of nevada', 'thirtysixth state', 'state of nevada', 'politics of nevada', 'nevadan', 'silver state', 'nevada us state', 'the silver state', 'tikaboo valley', 'nevada state', 'battle born state', 'transport in nevada', 'nevada']"
+195,What was the name of Gene Autry's horse?,"['Champion' 'Edric Egberuare' 'Title match system'
+ 'Intercontinental Champion' 'Champions' 'Championship game'
+ 'Chåmpionship']",Champion,champion,"['champion', 'edric egberuare', 'title match system', 'intercontinental champion', 'champions', 'championship game', 'chåmpionship']"
+196,Which city has a sports team of Steelers and team of Pirates?,"['Smoky City' 'Pittsburgh (Pa.)' 'Pittsburgh, Pennsylvania.'
+ 'Frick International Studies Academy Middle School' 'Pitsburgh'
+ 'The Burgh' 'Pittsbrugh' 'Pittsburgh, Pa' 'Pittsburgh, USA'
+ 'Glenwood, Pennsylvania' 'Pittsburgh (PA)'
+ 'The Pittsburgh Style of Literature' 'Pittsburgh, Pennsylvania, U.S.'
+ 'Pittsburgh, United States of America' 'Pittsburgh Pennsyvania'
+ 'UN/LOCODE:USPIT' 'Da burgh' 'Pittsburgh (pgh)'
+ 'Climate of Pittsburgh, Pennsylvania' 'Pittsburgh' 'City of Bridges'
+ 'Pittsburgh Frick 6–8 Middle School' 'Pittsburgh, PA'
+ ""St. Justin's High School"" 'East End (Pittsburgh)'
+ 'Pittsburgh, Pennsylvania, USA'
+ 'Pittsburgh, Allegheny County, Pennsylvania' 'The City of Bridges'
+ 'Pittsburgh, Pennsylvania, US' 'Fort du Quesne'
+ 'Pittsburgh Frick 6-8 Middle School' 'City of Pittsburgh'
+ 'The Steel City' 'Pittsburgh, PA.' 'Pittsburgh Style' 'Pittsburgh, Pa.'
+ 'Education in pittsburgh' 'Pittsburg, PA'
+ 'Pittsburgh, Pennsylvania, U.S.A.' 'Education in Pittsburgh'
+ 'Pittsburg, Pennsylvania' 'Pittsburgh, Pennsylvania']",Pittsburgh,pittsburgh,"['smoky city', 'pittsburgh pa', 'pittsburgh pennsylvania', 'frick international studies academy middle school', 'pitsburgh', 'the burgh', 'pittsbrugh', 'pittsburgh pa', 'pittsburgh usa', 'glenwood pennsylvania', 'pittsburgh pa', 'the pittsburgh style of literature', 'pittsburgh pennsylvania us', 'pittsburgh united states of america', 'pittsburgh pennsyvania', 'unlocodeuspit', 'da burgh', 'pittsburgh pgh', 'climate of pittsburgh pennsylvania', 'pittsburgh', 'city of bridges', 'pittsburgh frick 68 middle school', 'pittsburgh pa', 'st justins high school', 'east end pittsburgh', 'pittsburgh pennsylvania usa', 'pittsburgh allegheny county pennsylvania', 'the city of bridges', 'pittsburgh pennsylvania us', 'fort du quesne', 'pittsburgh frick 68 middle school', 'city of pittsburgh', 'the steel city', 'pittsburgh pa', 'pittsburgh style', 'pittsburgh pa', 'education in pittsburgh', 'pittsburg pa', 'pittsburgh pennsylvania usa', 'education in pittsburgh', 'pittsburg pennsylvania', 'pittsburgh pennsylvania']"
+197,"What did Fort Dearborn, Indian Territory change its name to?","['Chi-Beria' 'Sayre language academy' 'Chicago' 'Chicago, Illinois'
+ 'Hog Butcher for the World' 'Land of smelly onions'
+ 'Ariel Community Academy' 'The weather in Chicago'
+ 'Chicago, Illinois, U.S.A.' 'Chicago, Illionis' 'Near North Montessori'
+ 'Religion in Chicago' 'Chicago Finance Committee' 'The Paris of America'
+ 'The city of Chicago' 'City of Chicago'
+ 'List of sister cities of Chicago' 'UN/LOCODE:USCHI'
+ 'Chicago theatre scene' 'Chicago, WI' 'The City of Broad Shoulders'
+ 'City of Broad Shoulders' 'Sister Cities of Chicago' 'Chicago il'
+ 'Chicago, Illinois, USA' 'Performing arts in Chicago'
+ 'Chicago Transportation Committee' 'Chicago, Wisconsin' 'City of chicago'
+ 'Chicago theater scene' 'Chicago, Il' 'Chicago, IL.' 'Chicago, Ill.'
+ 'City of Chicago, Illinois' 'Chi town' 'Chicago, United States'
+ 'Chicago (Ill.)' 'Transport in Chicago'
+ 'Chicago, Illinois, United States' 'Chicago (IL)' 'USCHI' 'Chichago'
+ 'Chcago' 'Chicago, Illinois, U.S.' 'Sister Cities Chicago' 'Chicago, USA'
+ 'Chi City' 'Chicago, IL' 'Chi-Town' 'Chicago theatre' 'Paris of America'
+ 'Chicago, Illinois, US' 'Chicago Illinois'
+ 'The city of Chicago, Illinois' 'Sister cities of Chicago']","Chicago, Illinois",chicago illinois,"['chiberia', 'sayre language academy', 'chicago', 'chicago illinois', 'hog butcher for the world', 'land of smelly onions', 'ariel community academy', 'the weather in chicago', 'chicago illinois usa', 'chicago illionis', 'near north montessori', 'religion in chicago', 'chicago finance committee', 'the paris of america', 'the city of chicago', 'city of chicago', 'list of sister cities of chicago', 'unlocodeuschi', 'chicago theatre scene', 'chicago wi', 'the city of broad shoulders', 'city of broad shoulders', 'sister cities of chicago', 'chicago il', 'chicago illinois usa', 'performing arts in chicago', 'chicago transportation committee', 'chicago wisconsin', 'city of chicago', 'chicago theater scene', 'chicago il', 'chicago il', 'chicago ill', 'city of chicago illinois', 'chi town', 'chicago united states', 'chicago ill', 'transport in chicago', 'chicago illinois united states', 'chicago il', 'uschi', 'chichago', 'chcago', 'chicago illinois us', 'sister cities chicago', 'chicago usa', 'chi city', 'chicago il', 'chitown', 'chicago theatre', 'paris of america', 'chicago illinois us', 'chicago illinois', 'the city of chicago illinois', 'sister cities of chicago']"
+198,Bill Berry retired through ill health as a drummer in which band?,"['REM' 'R. E. M.' 'R. E. M' 'Rem' 'Rem (disambiguation)' 'R E M'
+ 'REM (disambiguation)']",REM,rem,"['rem', 'r e m', 'r e m', 'rem', 'rem disambiguation', 'r e m', 'rem disambiguation']"
+199,Leslie Nielsen trained in which of the armed services in WWII?,['Royal Canadian'],Royal Canadian,royal canadian,['royal canadian']
+200,What went with Blood and Sweat in the name of the 60s rock band?,"['Wept' 'Lacrymation' 'Bogorad’s Syndrome' 'Lacrimal fluid' 'Leamy eye'
+ 'Lachrymation' 'Watery eyes' 'Pre-corneal tear film' 'Tears'
+ 'Tear Duct and Gland' 'Lacrimation' 'Teary' 'Alacria' 'Basal tears'
+ ""Bogorad's syndrome"" 'Epiphoria' ""Bogorad's Syndrome"" 'Reflex ears'
+ 'Watering eyes' 'Tear film']",Tears,tears,"['wept', 'lacrymation', 'bogorads syndrome', 'lacrimal fluid', 'leamy eye', 'lachrymation', 'watery eyes', 'precorneal tear film', 'tears', 'tear duct and gland', 'lacrimation', 'teary', 'alacria', 'basal tears', 'bogorads syndrome', 'epiphoria', 'bogorads syndrome', 'reflex ears', 'watering eyes', 'tear film']"
+201,Which musical featured the song I Feel Pretty?,"['The Sharks (West Side Story)' 'Gee, Officer Krupke' 'Westside Story'
+ 'West Side Story 2008' 'Riff (character)' 'West side story'
+ 'The Jets (West Side Story)' 'Jet Song' 'West Side Story'
+ 'West Side Story (musical)']",West Side Story,west side story,"['the sharks west side story', 'gee officer krupke', 'westside story', 'west side story 2008', 'riff character', 'west side story', 'the jets west side story', 'jet song', 'west side story', 'west side story musical']"
+202,Who produced the first Jetliner in 1957?,"['Boeing Aircraft of Canada' 'Boeing Information Services, Inc.'
+ 'The Boeing Company' 'Boeing Aircraft' 'Pacific Aero Products'
+ 'Continental DataGraphics' 'Boeing Electronics, Inc.' 'The Boeing Co.'
+ 'Boeing Aircraft Corp' 'Boeing Company' 'Boeing Aircraft Company'
+ 'Pacific Aero Products Company' 'William Boeing Jr.' 'Boeng' 'Boeing'
+ 'Boeing Commercial Airlines' 'Boeing Information Services'
+ 'BOEING Company' 'Boeing International' 'NYSE:BA' 'Boeing Co.'
+ 'Boeing Aircraft Corporation' 'Www.boeing.com'
+ 'Pacific Aero Products Co.' 'X-vehicles' 'Boeing Electronics'
+ 'Boeing Corporation' 'Boeing Computer Services'
+ 'List of Boeing Factories' 'Beoing']",Boeing,boeing,"['boeing aircraft of canada', 'boeing information services inc', 'the boeing company', 'boeing aircraft', 'pacific aero products', 'continental datagraphics', 'boeing electronics inc', 'the boeing co', 'boeing aircraft corp', 'boeing company', 'boeing aircraft company', 'pacific aero products company', 'william boeing jr', 'boeng', 'boeing', 'boeing commercial airlines', 'boeing information services', 'boeing company', 'boeing international', 'nyseba', 'boeing co', 'boeing aircraft corporation', 'wwwboeingcom', 'pacific aero products co', 'xvehicles', 'boeing electronics', 'boeing corporation', 'boeing computer services', 'list of boeing factories', 'beoing']"
+203,In which decade of the 20th century was James Caan born?,"['1930’s' 'Thirties' '1930s literature' 'Nineteen-thirties' '1930–1939'
+ '1930-1939' ""'30s"" '1930s' ""1930's"" '%6030s' '1930s (decade)'
+ 'The Thirties']",1930s,1930s,"['1930s', 'thirties', '1930s literature', 'nineteenthirties', '19301939', '19301939', '30s', '1930s', '1930s', '6030s', '1930s decade', 'the thirties']"
+204,In which country is the deepwater port of Trondheim?,"['Norvège' 'Mainland Norway' 'Norway' 'Norvege' 'Noregur' 'NORWAY'
+ 'Norwegian state' 'Etymology of Norway' 'Noruega' 'Norwegen'
+ 'ISO 3166-1:NO' 'Noreg' 'Republic of Norway' 'Norwegian kingdom'
+ 'Kongeriket Noreg' 'Name of Norway' 'Kongeriket Norge' 'Noorwegen'
+ 'Kingdom of Norway' 'Sport in Norway' 'Norwegia'
+ 'Royal Kingdom of Norway']",Norway,norway,"['norvège', 'mainland norway', 'norway', 'norvege', 'noregur', 'norway', 'norwegian state', 'etymology of norway', 'noruega', 'norwegen', 'iso 31661no', 'noreg', 'republic of norway', 'norwegian kingdom', 'kongeriket noreg', 'name of norway', 'kongeriket norge', 'noorwegen', 'kingdom of norway', 'sport in norway', 'norwegia', 'royal kingdom of norway']"
+205,In which state is Camp David?,"['Education in Maryland' 'The Old Line State' 'Murder Land'
+ 'Geography of Maryland' 'Mary Land' 'Maryland' 'Economy of Maryland'
+ 'Transport in Maryland' 'Old Line State' 'Maryland, USA'
+ 'Maryland, United States' 'Maryland gross state product' 'MarylanD'
+ 'Maryland (state)' 'Mariland' 'Seventh State' 'MD, USA' 'Murda Land'
+ 'Maryland (U.S. state)' 'Climate of Maryland' 'US-MD'
+ 'Demographics of Maryland' 'Transportation in Maryland'
+ 'Religion in Maryland' 'Maralind' '7th State' 'State of Maryland']",Maryland,maryland,"['education in maryland', 'the old line state', 'murder land', 'geography of maryland', 'mary land', 'maryland', 'economy of maryland', 'transport in maryland', 'old line state', 'maryland usa', 'maryland united states', 'maryland gross state product', 'maryland', 'maryland state', 'mariland', 'seventh state', 'md usa', 'murda land', 'maryland us state', 'climate of maryland', 'usmd', 'demographics of maryland', 'transportation in maryland', 'religion in maryland', 'maralind', '7th state', 'state of maryland']"
+206,What was the Statue of Liberty originally called?,"['Liberty, Statue of' 'Statue of liberty' 'Fort Wood National Monument'
+ 'Staute of Liberty' 'Statue of Liberty' 'Azadliq Statue'
+ 'Freiheitsstatue' 'Liberty Enlightening the World'
+ 'Statue of Liberty, USA' 'Statue Of Liberty'
+ 'Liberty enlightening the world' 'Statue Liberty' 'Mother of Exiles'
+ 'The Statue of Liberty' 'Frederick R. Law' '🗽' 'The Liberty Statue'
+ 'Free woman']",Liberty Enlightening the World,liberty enlightening the world,"['liberty statue of', 'statue of liberty', 'fort wood national monument', 'staute of liberty', 'statue of liberty', 'azadliq statue', 'freiheitsstatue', 'liberty enlightening the world', 'statue of liberty usa', 'statue of liberty', 'liberty enlightening the world', 'statue liberty', 'mother of exiles', 'the statue of liberty', 'frederick r law', '', 'the liberty statue', 'free woman']"
+207,Who sang the Bond theme form From Russia With Love?,"['Fred Flange' 'Matt Monroe' 'Matt Munro' 'Matt Monro' 'Matt Munroe'
+ 'Terence Edward Parsons']",Matt Monro,matt monro,"['fred flange', 'matt monroe', 'matt munro', 'matt monro', 'matt munroe', 'terence edward parsons']"
+208,Which company was responsible for the oil spill in New York harbor in 1990?,"['Standard Oil New Jersey' 'Exxon Company' 'Exxon' 'Jersey Standard'
+ 'EXXon' 'Exxon Research and Engineering Company' 'Esso Petroleum'
+ 'Standard Oil Company of New Jersey' 'Exxon Company USA']",Exxon,exxon,"['standard oil new jersey', 'exxon company', 'exxon', 'jersey standard', 'exxon', 'exxon research and engineering company', 'esso petroleum', 'standard oil company of new jersey', 'exxon company usa']"
+209,In which country was Arnold Schwarzenegger born?,"['The Republic of Austria' 'Oesterreich' 'Eastreach' 'Österrike'
+ 'Easterrealm' 'Austurriki' 'Republik Österreich' 'Osterreich'
+ 'Austurríki' 'Austrian Republic' 'Republik Osterreich' 'Avstria'
+ 'Österreich' 'Republik Oesterreich' 'Administrative divisions of Austria'
+ 'Ostria' 'ISO 3166-1:AT' 'Alpine Deutschen' 'Austria' 'Oostenrijk'
+ 'Architecture of Austria' 'Republic of Austria' 'Etymology of Austria'
+ 'Autriche' 'Austrian architecture']",Austria,austria,"['the republic of austria', 'oesterreich', 'eastreach', 'österrike', 'easterrealm', 'austurriki', 'republik österreich', 'osterreich', 'austurríki', 'austrian republic', 'republik osterreich', 'avstria', 'österreich', 'republik oesterreich', 'administrative divisions of austria', 'ostria', 'iso 31661at', 'alpine deutschen', 'austria', 'oostenrijk', 'architecture of austria', 'republic of austria', 'etymology of austria', 'autriche', 'austrian architecture']"
+210,Who had an 80s No 1 with Don't You Want Me?,"['The Human League' 'The League Unlimited Orchestra' 'The Dead Daughters'
+ 'The Future (band)' 'League unlimited orchestra' 'Human League']",Human League,human league,"['the human league', 'the league unlimited orchestra', 'the dead daughters', 'the future band', 'league unlimited orchestra', 'human league']"
+211,Which star of Hannah And Her Sisters has a child called Free?,"['Barbara Hershey' 'Barbara seagull' 'Barbara Lynn Herzstein'
+ 'Barbara Seagull']",Barbara Hershey,barbara hershey,"['barbara hershey', 'barbara seagull', 'barbara lynn herzstein', 'barbara seagull']"
+212,Who had 70s hits with Have You Seen Her and Oh Girl?,"['ChiLites' 'Marshall Thompson (Chi-Lites)' 'The Chi-Lites'
+ 'The Chi Lites' 'Marshall D. Thompson' 'Chi-lites' 'Chi Lites'
+ 'Chi-Lites']",Chi-Lites,chilites,"['chilites', 'marshall thompson chilites', 'the chilites', 'the chi lites', 'marshall d thompson', 'chilites', 'chi lites', 'chilites']"
+213,In which decade of the 20th century was Father's Day first celebrated?,"['1910s' '1910s (decade)' 'Nineteen-tens' '1910s literature' '1910–1919'
+ '1910-1919' ""Music in the 1910's"" 'Nineteen tens' ""1910's""]",1910s,1910s,"['1910s', '1910s decade', 'nineteentens', '1910s literature', '19101919', '19101919', 'music in the 1910s', 'nineteen tens', '1910s']"
+214,"""What was the name of the """"girl with kaleidoscope eyes"""" in a Beatles song?""",['Lucy Lucia' 'Lucy' 'LUCY'],Lucy,lucy,"['lucy lucia', 'lucy', 'lucy']"
+215,Will Rogers airport was built in which US state?,"['Okla.' 'Oklahoma' 'Oklahoma, United States' 'Sooner State'
+ 'Forty-Sixth State' 'Religion in Oklahoma' 'Culture of Oklahoma'
+ '46th State' 'Oklahoma (U.S. state)' 'Oklahoma, USA' 'State of Oklahoma'
+ 'List of Oklahoma State Symbols' 'Oaklahoma' 'Oklaholma'
+ 'Transportation in Oklahoma' 'US-OK' 'Sports in Oklahoma' 'Okla'
+ 'Oklahoman' 'Oclahoma' 'Education in Oklahoma' 'Energy in Oklahoma'
+ 'Transport in Oklahoma' 'Forty-sixth State' 'Oklahoma (state)'
+ 'The Sooner State']",Oklahoma,oklahoma,"['okla', 'oklahoma', 'oklahoma united states', 'sooner state', 'fortysixth state', 'religion in oklahoma', 'culture of oklahoma', '46th state', 'oklahoma us state', 'oklahoma usa', 'state of oklahoma', 'list of oklahoma state symbols', 'oaklahoma', 'oklaholma', 'transportation in oklahoma', 'usok', 'sports in oklahoma', 'okla', 'oklahoman', 'oclahoma', 'education in oklahoma', 'energy in oklahoma', 'transport in oklahoma', 'fortysixth state', 'oklahoma state', 'the sooner state']"
+216,What writer was expelled from West Point for showing up for a public parade wearing only a white belt and gloves?,"['Edgar alen poe' 'Edgar Allan Poe' 'Ea poe' 'Edgar allen poe'
+ 'Edgar Allen Poe' 'The Life of Edgar Allan Poe' 'Poean'
+ 'Poe, Edgar Allen' 'Edgar A. Poe'
+ 'Edgar Allan Poe and the Stories He Has Written'
+ ""Edgar Allan Poe's literary influence"" 'Edger Allen Poe'
+ 'Edgar allan poe' 'E.A. Poe' 'Literary influence of Edgar Allan Poe'
+ 'A Bostonian' 'E A Poe' 'Poesque' 'Henri Le Rennet' 'Eddy is no more'
+ 'E. A. Poe' 'EA Poe' 'Edgar Alan Poe' 'Edgar Allan Po' 'Poe'
+ ""Edgar Allan Poe's Tales of Mystery and Terror""]",Edgar Allan Poe,edgar allan poe,"['edgar alen poe', 'edgar allan poe', 'ea poe', 'edgar allen poe', 'edgar allen poe', 'the life of edgar allan poe', 'poean', 'poe edgar allen', 'edgar a poe', 'edgar allan poe and the stories he has written', 'edgar allan poes literary influence', 'edger allen poe', 'edgar allan poe', 'ea poe', 'literary influence of edgar allan poe', 'a bostonian', 'e a poe', 'poesque', 'henri le rennet', 'eddy is no more', 'e a poe', 'ea poe', 'edgar alan poe', 'edgar allan po', 'poe', 'edgar allan poes tales of mystery and terror']"
+217,"""What couple live next door to Dagwood and Blondie Bumstead in """"Blondie""""?""",['Herb and Tootsie Woodley'],Herb and Tootsie Woodley,herb and tootsie woodley,['herb and tootsie woodley']
+218,Who was the Lone Ranger's great grand-nephew?,"['Green Hornet (film)' 'Green Hornet, The' 'Green Hornet' 'Brit Reid'
+ 'Green Hornet (comics)' 'The green hornet' 'The Green Hornet'
+ 'Britt Reid']",The Green Hornet,the green hornet,"['green hornet film', 'green hornet the', 'green hornet', 'brit reid', 'green hornet comics', 'the green hornet', 'the green hornet', 'britt reid']"
+219,"""Psychologist William Moulton Marston, inventor of the polygraph, or lie detector, also created a famous comic book heroine,. Who was she?""""""","['Wonder-woman' 'Wonder women' 'Wonder Lady'
+ 'Wonder Woman (undeveloped film)' 'Wonder Woman (comic book)'
+ 'Wonder-Woman' 'Wonder Woman: Spirit of Truth' 'Wonder Tot'
+ 'Wonder Woman (movie)' 'Wonderwoman' 'Wonder woman'
+ 'Princess Diana (comics)' 'WonderWoman' 'Wonder Woman']",Wonder Woman,wonder woman,"['wonderwoman', 'wonder women', 'wonder lady', 'wonder woman undeveloped film', 'wonder woman comic book', 'wonderwoman', 'wonder woman spirit of truth', 'wonder tot', 'wonder woman movie', 'wonderwoman', 'wonder woman', 'princess diana comics', 'wonderwoman', 'wonder woman']"
+220,"""""""Last night I dreamt I went to Manderley again,"""" was the first line of what Daphne du Maurier novel?""","['Rifkah' 'Rifko' 'Rifka' 'Rifkoh' 'Ribhqah' 'Rivqah' 'Rebeccah' 'Rebekah'
+ 'Rivqa' 'Rivko' 'Rivka' 'Rebbecca' 'Rebecca' 'Rivkoh']",Rebecca,rebecca,"['rifkah', 'rifko', 'rifka', 'rifkoh', 'ribhqah', 'rivqah', 'rebeccah', 'rebekah', 'rivqa', 'rivko', 'rivka', 'rebbecca', 'rebecca', 'rivkoh']"
+221,"""What is the actual title of Leonardo da Vinci's """"Mona Lisa""""?""",['La Gioconda (disambiguation)' 'La Gioconda' 'La gioconda' 'La Giaconda'],La Gioconda,la gioconda,"['la gioconda disambiguation', 'la gioconda', 'la gioconda', 'la giaconda']"
+222,"In Henry Wadsworth Longfellow's famous poem, Hiawatha, what was the name of Hiawatha's wife?",['Minnehaha' 'Minniehaha'],Minnehaha,minnehaha,"['minnehaha', 'minniehaha']"
+223,"How many husbands did the Wife of Bath have, as reported in Chaucer's Canterbury Tales?",['five' '5' 'Five'],Five,five,"['five', '5', 'five']"
+224,What was the name of the she-ape that rescued the infant Tarzan and raised him to be Lord of the Apes?,"['Kāla' 'Kala' 'Kala (disambiguation)' 'Kala, Mazandaran' 'KALA']",Kala,kala,"['kāla', 'kala', 'kala disambiguation', 'kala mazandaran', 'kala']"
+225,What was the title of Mac West's 1959 autobiography?,['Goodness Had Nothing to Do With It'],Goodness Had Nothing to Do With It,goodness had nothing to do with it,['goodness had nothing to do with it']
+226,"""What words did Lewis Carroll combine to come up with the term """"chortle"""" in Through a Looking-Glass?""",['Chuckle and snort'],Chuckle and snort,chuckle and snort,['chuckle and snort']
+227,"""Shakespeare wrote that """"brevity is the soul of wit."""" What did noted wit Dorothy Parker say it was?""",['The soul of lingerie'],The soul of lingerie,the soul of lingerie,['the soul of lingerie']
+228,What is the native country of Agatha Chrisitie's detective Hercule Poirot?,"['Belguim' 'Koenigreich Belgien' 'Belgium/Belgie' 'Kingdom of Belgium'
+ 'Belgian' 'Beljum' 'Königreich Belgien' 'Belgique' 'Belgium' 'Beligum'
+ 'Kingdom of the Belgians' 'Beljam' 'Kingdom Of Belgium' 'Belgum'
+ 'ISO 3166-1:BE' 'Belgie' 'Cockpit of Europe' 'Koninkrijk België'
+ 'Beldjike' 'Blegium' 'Belgio' 'The Quebec of Europe' 'België' 'Begium'
+ 'Royaume de Belgique' 'Konigreich Belgien' 'Koninkrijk Belgie'
+ 'People of Belgium' 'Belgien' 'Belgium/facts'
+ 'Administrative divisions of Belgium' 'Belgium facts']",Belgium,belgium,"['belguim', 'koenigreich belgien', 'belgiumbelgie', 'kingdom of belgium', 'belgian', 'beljum', 'königreich belgien', 'belgique', 'belgium', 'beligum', 'kingdom of the belgians', 'beljam', 'kingdom of belgium', 'belgum', 'iso 31661be', 'belgie', 'cockpit of europe', 'koninkrijk belgië', 'beldjike', 'blegium', 'belgio', 'the quebec of europe', 'belgië', 'begium', 'royaume de belgique', 'konigreich belgien', 'koninkrijk belgie', 'people of belgium', 'belgien', 'belgiumfacts', 'administrative divisions of belgium', 'belgium facts']"
+229,What was the hometown of Sgt. Snorkel in Beetle Bailey?,"['Pork Corners, Kansas']","Pork Corners, Kansas",pork corners kansas,['pork corners kansas']
+230,"In the Robin Hood stories, what was the real name of Little John?",['John Little' 'John Little (disambiguation)'],John Little,john little,"['john little', 'john little disambiguation']"
+231,The Last Of The Really Great Whangdoodles and Mandy are children's books written by what well-known Oscar-winning actress?,"['Julia Elizabeth Wells' 'Julie Elizabeth Andrews, DBE'
+ 'Julie Andrews Edwards' 'Julie Wells' 'Julie Elizabeth Wells'
+ 'Julie Elizabeth Andrews' 'Dame Julie Andrews'
+ 'Julie Elizabeth Andrews DBE' 'Julie andrews' 'Julie Andrews']",Julie Andrews,julie andrews,"['julia elizabeth wells', 'julie elizabeth andrews dbe', 'julie andrews edwards', 'julie wells', 'julie elizabeth wells', 'julie elizabeth andrews', 'dame julie andrews', 'julie elizabeth andrews dbe', 'julie andrews', 'julie andrews']"
+232,By what pseudonym is writer Frederick Dannay Manfred Bennington Lee better known?,"['Manfred B. Lee' 'Frederic Dannay' 'Manfred Bennington Lee' 'Manfred Lee'
+ 'Barnaby Ross' 'Pseud. Ellery Queen' 'Lee, Manfred Bennington'
+ 'Dannay, Frederic' 'Ellery Queen']",Ellery Queen,ellery queen,"['manfred b lee', 'frederic dannay', 'manfred bennington lee', 'manfred lee', 'barnaby ross', 'pseud ellery queen', 'lee manfred bennington', 'dannay frederic', 'ellery queen']"
+233,How many times did Ernest Hemingway revise the last page of A Farewell To Arms?,['39 times'],39 times,39 times,['39 times']
+234,What was art-world guru Andy Warhol's name at birth?,"['Andy Warhaul' 'Warhol' 'Warholian Pop' 'Andy Warhola' 'Andrew warhola'
+ 'Andy Warhol Foundation for the Visual Arts' 'Warholite' 'Andy warhol'
+ 'Drella' 'Andrew Warhol' 'Andy Wahrol' 'Andy worhol' 'Andrew Warhola'
+ 'Andy Warhol Foundation' 'Warholesque' 'Warholian' 'Warhol Foundation'
+ 'Andy Warhol' 'Paul Warhola']",Andrew Warhola,andrew warhola,"['andy warhaul', 'warhol', 'warholian pop', 'andy warhola', 'andrew warhola', 'andy warhol foundation for the visual arts', 'warholite', 'andy warhol', 'drella', 'andrew warhol', 'andy wahrol', 'andy worhol', 'andrew warhola', 'andy warhol foundation', 'warholesque', 'warholian', 'warhol foundation', 'andy warhol', 'paul warhola']"
+235,"What was the maiden name of Blondie Bumstead, the comic-strip wife of hapless Dagwood Bumstead?",['Boopadoop'],Boopadoop,boopadoop,['boopadoop']
+236,What famous comic strip character was inspired by the 1936 Henry Fonda film Trail of the Lonesome Pine?,"[""Al Capp's Li'l Abner""]",Al Capp's Li'l Abner,al capps lil abner,['al capps lil abner']
+237,What was the original name of the orphan created in 1924 by cartoonist Harold Gray in the comic strip we know as Little Orphan Annie?,['Otto' 'Oddo'],Otto,otto,"['otto', 'oddo']"
+238,What was the name of Elizabeth Barrett Browning's pet golden cocker spaniel ?,['Flush (disambiguation)' 'Flush (song)' 'Flush'],Flush,flush,"['flush disambiguation', 'flush song', 'flush']"
+239,The title of what poetic drama by Robert Browning was used to name a Kentucky town?,['Pipa Passes' 'Song from Pippa Passes' 'Pippa Passes'],Pippa Passes,pippa passes,"['pipa passes', 'song from pippa passes', 'pippa passes']"
+240,"What did L. Fran Baum, author of the The Wonderful Wizard of Oz, call his home in Hollywood?",['Ozcot'],Ozcot,ozcot,['ozcot']
+241,What exotic city was featured in National Geographic magazine's first photo story in 1905?,"['Lhasa' 'Lhasa, Tibet' '拉萨' 'Administrative divisions of Lhasa' 'Lahasa'
+ 'Lhosa' '拉萨市' '拉薩' 'Capital of Tibet' 'Lasa, Xizang' 'Lhasa, Xizang'
+ '拉薩市' 'Chengguan District, Lhasa' 'Lhassa' 'Dharkay Restaurant' 'Lāsà']","Lhasa, Tibet",lhasa tibet,"['lhasa', 'lhasa tibet', '拉萨', 'administrative divisions of lhasa', 'lahasa', 'lhosa', '拉萨市', '拉薩', 'capital of tibet', 'lasa xizang', 'lhasa xizang', '拉薩市', 'chengguan district lhasa', 'lhassa', 'dharkay restaurant', 'lāsà']"
+242,How much time did Jonah spend in the belly of the whale?,['Three days and three nights'],Three days and three nights,three days and three nights,['three days and three nights']
+243,For what event in February 1964 did evangelist Billy Graham break his strict rule against watching TV on Sunday?,"[""The Beatles' first appearance on The Ed Sullivan Show""]",The Beatles' first appearance on The Ed Sullivan Show,the beatles first appearance on the ed sullivan show,['the beatles first appearance on the ed sullivan show']
+244,"How tall was Goliath, the Philistine giant slain by David with a stone hurled from a sling?","['Six cubits and a span,']","Six cubits and a span,",six cubits and a span,['six cubits and a span']
+245,"""In the Bible, for what """"price"""" did Esau sell his birthright to his younger twin brother, Jacob?""",['Pottage of lentils (Genesis 25:29-34)'],Pottage of lentils (Genesis 25:29-34),pottage of lentils genesis 252934,['pottage of lentils genesis 252934']
+246,What bird is named for the apostle Peter?,"['The petrel, from a diminutive form of Petrus, or Peter, in Latin']","The petrel, from a diminutive form of Petrus, or Peter, in Latin",the petrel from a diminutive form of petrus or peter in latin,['the petrel from a diminutive form of petrus or peter in latin']
+247,Who is the only woman whose age is mentioned in the Bible?,"['Sarah' 'Matriarch Sarah' 'سارة' 'Sarah (Bible)' 'Soroh'
+ 'Islamic view of Sarah' 'Śārāh' 'Sarah in rabbinic literature'
+ 'Sarah in Islam']",Sarah,sarah,"['sarah', 'matriarch sarah', 'سارة', 'sarah bible', 'soroh', 'islamic view of sarah', 'śārāh', 'sarah in rabbinic literature', 'sarah in islam']"
+248,What is the most common name in the Bible--shared by 32 people in the Old Testament and one in the New Testament?,"['Zecharyah' 'Zachery' 'Zakarias' 'Zakharia' 'Sakarias' 'Zacharius'
+ 'Zackariah' 'זְכַרְיָה' 'Zacherie' 'Zekharyah' 'Zacharias, Saint'
+ 'Zcharya' ""Z'charyah"" 'Zecharias' 'Zechariah' 'Saint Zacharias'
+ ""Z'charya"" 'Zecharia' 'Zacheriah' 'Zakary' 'St Zacharias' 'Zacharias'
+ 'Zacarias' 'Zecharya' 'Zeebariah' 'Zechariah (disambiguation)' 'Zcharyah'
+ 'Zacharia' 'Zachariah']",Zechariah,zechariah,"['zecharyah', 'zachery', 'zakarias', 'zakharia', 'sakarias', 'zacharius', 'zackariah', 'זכריה', 'zacherie', 'zekharyah', 'zacharias saint', 'zcharya', 'zcharyah', 'zecharias', 'zechariah', 'saint zacharias', 'zcharya', 'zecharia', 'zacheriah', 'zakary', 'st zacharias', 'zacharias', 'zacarias', 'zecharya', 'zeebariah', 'zechariah disambiguation', 'zcharyah', 'zacharia', 'zachariah']"
+249,In what language was the New Testament originally written?,['In Greek'],In Greek,in greek,['in greek']

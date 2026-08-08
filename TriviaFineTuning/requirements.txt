@@ -1,0 +1,13 @@
+pandas
+pyarrow
+transformers
+datasets
+accelerate
+evaluate
+trl
+protobuf
+sentencepiece
+torch
+tensorboard
+matplotlib
+huggingface_hub
